@@ -1,0 +1,4749 @@
+{
+    "id": "7c581d14-719f-4638-b808-9d3e20ad1e4d",
+    "status": "closed",
+    "coverage": "full",
+    "scheduled": "2025-11-19T03:00:00+00:00",
+    "attendance": 18008,
+    "entry_mode": "INGEST",
+    "start_time": "2025-11-19T03:08:26+00:00",
+    "end_time": "2025-11-19T05:38:18+00:00",
+    "total_game_duration": "60:00",
+    "clock": "00:00",
+    "period": 3,
+    "sr_id": "sr:match:62072064",
+    "reference": "20313",
+    "clock_decimal": "00:00",
+    "season": {
+        "id": "4a67cca6-b450-45f9-91c6-48e92ac19069",
+        "year": 2025,
+        "type": "REG"
+    },
+    "time_zones": {
+        "venue": "US/Pacific",
+        "home": "US/Pacific",
+        "away": "US/Eastern"
+    },
+    "venue": {
+        "id": "17d90f56-d6fc-4d73-9cc7-4991d6da72f4",
+        "name": "T-Mobile Arena",
+        "capacity": 17500,
+        "address": "3780 South Las Vegas Boulevard",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89158",
+        "country": "USA",
+        "time_zone": "US/Pacific",
+        "sr_id": "sr:venue:20621",
+        "location": {
+            "lat": "36.10277",
+            "lng": "-115.17812"
+        }
+    },
+    "home": {
+        "id": "42376e1c-6da8-461e-9443-cfcf0a9fcc4d",
+        "name": "Golden Knights",
+        "market": "Vegas",
+        "points": 3,
+        "sr_id": "sr:team:344158",
+        "reference": "54",
+        "strength": "even",
+        "statistics": {
+            "corsi_for": 46,
+            "corsi_against": 53,
+            "corsi_total": -7,
+            "fenwick_for": 31,
+            "fenwick_against": 36,
+            "fenwick_total": -5,
+            "on_ice_shots_for": 18,
+            "on_ice_shots_against": 16,
+            "average_shot_distance": 39.7,
+            "on_ice_shots_pct": 0.529,
+            "on_ice_shots_differential": 2,
+            "corsi_pct": 0.465,
+            "fenwick_pct": 0.463,
+            "pdo": 12.395,
+            "shots_by_type": [
+                {
+                    "type": "wrist",
+                    "shots": 17,
+                    "goals": 2,
+                    "pct": 11.8
+                },
+                {
+                    "type": "slap",
+                    "shots": 1,
+                    "goals": 0,
+                    "pct": 0.0
+                },
+                {
+                    "type": "backhand",
+                    "shots": 2,
+                    "goals": 0,
+                    "pct": 0.0
+                },
+                {
+                    "type": "tip",
+                    "shots": 2,
+                    "goals": 0,
+                    "pct": 0.0
+                },
+                {
+                    "type": "snap",
+                    "shots": 4,
+                    "goals": 1,
+                    "pct": 25.0
+                },
+                {
+                    "type": "wrap_around",
+                    "shots": 0,
+                    "goals": 0,
+                    "pct": 0.0
+                },
+                {
+                    "type": "bat",
+                    "shots": 0,
+                    "goals": 0,
+                    "pct": 0.0
+                },
+                {
+                    "type": "cradle",
+                    "shots": 0,
+                    "goals": 0,
+                    "pct": 0.0
+                },
+                {
+                    "type": "poke",
+                    "shots": 0,
+                    "goals": 0,
+                    "pct": 0.0
+                },
+                {
+                    "type": "between_legs",
+                    "shots": 0,
+                    "goals": 0,
+                    "pct": 0.0
+                },
+                {
+                    "type": "defensive_deflection",
+                    "shots": 0,
+                    "goals": 0,
+                    "pct": 0.0
+                }
+            ]
+        },
+        "players": [
+            {
+                "id": "5cb512ae-8207-4a2f-9209-614c4cdb6344",
+                "full_name": "Jack Eichel",
+                "first_name": "Jack",
+                "last_name": "Eichel",
+                "handedness": "R",
+                "position": "F",
+                "primary_position": "C",
+                "jersey_number": "9",
+                "captain": "A",
+                "played": true,
+                "sr_id": "sr:player:834041",
+                "reference": "8478403",
+                "statistics": {
+                    "corsi_for": 13,
+                    "corsi_against": 13,
+                    "corsi_total": 0,
+                    "fenwick_for": 8,
+                    "fenwick_against": 10,
+                    "fenwick_total": -2,
+                    "on_ice_shots_for": 6,
+                    "on_ice_shots_against": 7,
+                    "average_shot_distance": 36.2,
+                    "on_ice_shots_pct": 0.462,
+                    "on_ice_shots_differential": -1,
+                    "corsi_pct": 0.5,
+                    "fenwick_pct": 0.444,
+                    "shots_by_type": [
+                        {
+                            "type": "wrist",
+                            "shots": 5,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "slap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "backhand",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "tip",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "snap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "wrap_around",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "bat",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "cradle",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "poke",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "between_legs",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "defensive_deflection",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        }
+                    ],
+                    "starts_by_zone": {
+                        "offensive": 8,
+                        "offensive_pct": 44.4,
+                        "defensive": 4,
+                        "defensive_pct": 22.2,
+                        "neutral": 6,
+                        "neutral_pct": 33.3
+                    }
+                }
+            },
+            {
+                "id": "0c672978-1e7b-486f-8ed8-d2e488b18812",
+                "full_name": "Alexander Holtz",
+                "first_name": "Alexander",
+                "last_name": "Holtz",
+                "handedness": "R",
+                "position": "F",
+                "primary_position": "RW",
+                "jersey_number": "26",
+                "captain": "N",
+                "scratched": true,
+                "sr_id": "sr:player:1577514",
+                "reference": "8482125",
+                "statistics": {
+                    "corsi_total": 0,
+                    "fenwick_total": 0,
+                    "average_shot_distance": 0.0,
+                    "on_ice_shots_pct": 0.0,
+                    "on_ice_shots_differential": 0,
+                    "corsi_pct": 0.0,
+                    "fenwick_pct": 0.0,
+                    "shots_by_type": [
+                        {
+                            "type": "wrist",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "slap",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "backhand",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "tip",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "snap",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "wrap_around",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "bat",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "cradle",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "poke",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "between_legs",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "defensive_deflection",
+                            "pct": 0.0
+                        }
+                    ],
+                    "starts_by_zone": {
+                        "offensive_pct": 0.0,
+                        "defensive_pct": 0.0,
+                        "neutral_pct": 0.0
+                    }
+                }
+            },
+            {
+                "id": "b424c4e8-31d3-4155-b6af-319000735e1b",
+                "full_name": "Zach Whitecloud",
+                "first_name": "Zach",
+                "last_name": "Whitecloud",
+                "handedness": "R",
+                "position": "D",
+                "primary_position": "D",
+                "jersey_number": "2",
+                "captain": "N",
+                "starter": true,
+                "played": true,
+                "sr_id": "sr:player:1215578",
+                "reference": "8480727",
+                "statistics": {
+                    "corsi_for": 11,
+                    "corsi_against": 18,
+                    "corsi_total": -7,
+                    "fenwick_for": 8,
+                    "fenwick_against": 12,
+                    "fenwick_total": -4,
+                    "on_ice_shots_for": 4,
+                    "on_ice_shots_against": 6,
+                    "average_shot_distance": 62.0,
+                    "on_ice_shots_pct": 0.4,
+                    "on_ice_shots_differential": -2,
+                    "corsi_pct": 0.379,
+                    "fenwick_pct": 0.4,
+                    "shots_by_type": [
+                        {
+                            "type": "wrist",
+                            "shots": 1,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "slap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "backhand",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "tip",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "snap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "wrap_around",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "bat",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "cradle",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "poke",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "between_legs",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "defensive_deflection",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        }
+                    ],
+                    "starts_by_zone": {
+                        "offensive": 3,
+                        "offensive_pct": 20.0,
+                        "defensive": 3,
+                        "defensive_pct": 20.0,
+                        "neutral": 9,
+                        "neutral_pct": 60.0
+                    }
+                }
+            },
+            {
+                "id": "2fb79c72-5eed-454e-adb4-c989f0a888c8",
+                "full_name": "Kaedan Korczak",
+                "first_name": "Kaedan",
+                "last_name": "Korczak",
+                "handedness": "R",
+                "position": "D",
+                "primary_position": "D",
+                "jersey_number": "6",
+                "captain": "N",
+                "played": true,
+                "sr_id": "sr:player:1650193",
+                "reference": "8481527",
+                "statistics": {
+                    "corsi_for": 18,
+                    "corsi_against": 10,
+                    "corsi_total": 8,
+                    "fenwick_for": 13,
+                    "fenwick_against": 6,
+                    "fenwick_total": 7,
+                    "on_ice_shots_for": 7,
+                    "on_ice_shots_against": 2,
+                    "average_shot_distance": 0.0,
+                    "on_ice_shots_pct": 0.778,
+                    "on_ice_shots_differential": 5,
+                    "corsi_pct": 0.643,
+                    "fenwick_pct": 0.684,
+                    "shots_by_type": [
+                        {
+                            "type": "wrist",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "slap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "backhand",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "tip",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "snap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "wrap_around",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "bat",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "cradle",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "poke",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "between_legs",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "defensive_deflection",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        }
+                    ],
+                    "starts_by_zone": {
+                        "offensive": 5,
+                        "offensive_pct": 45.5,
+                        "defensive": 2,
+                        "defensive_pct": 18.2,
+                        "neutral": 4,
+                        "neutral_pct": 36.4
+                    }
+                }
+            },
+            {
+                "id": "42c2d636-0f24-11e2-8525-18a905767e44",
+                "full_name": "Brandon Saad",
+                "first_name": "Brandon",
+                "last_name": "Saad",
+                "handedness": "L",
+                "position": "F",
+                "primary_position": "LW",
+                "jersey_number": "20",
+                "captain": "N",
+                "starter": true,
+                "played": true,
+                "sr_id": "sr:player:181749",
+                "reference": "8476438",
+                "statistics": {
+                    "corsi_for": 15,
+                    "corsi_against": 12,
+                    "corsi_total": 3,
+                    "fenwick_for": 11,
+                    "fenwick_against": 6,
+                    "fenwick_total": 5,
+                    "on_ice_shots_for": 6,
+                    "on_ice_shots_against": 2,
+                    "average_shot_distance": 20.0,
+                    "on_ice_shots_pct": 0.75,
+                    "on_ice_shots_differential": 4,
+                    "corsi_pct": 0.556,
+                    "fenwick_pct": 0.647,
+                    "shots_by_type": [
+                        {
+                            "type": "wrist",
+                            "shots": 2,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "slap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "backhand",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "tip",
+                            "shots": 1,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "snap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "wrap_around",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "bat",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "cradle",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "poke",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "between_legs",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "defensive_deflection",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        }
+                    ],
+                    "starts_by_zone": {
+                        "offensive": 3,
+                        "offensive_pct": 23.1,
+                        "defensive": 3,
+                        "defensive_pct": 23.1,
+                        "neutral": 7,
+                        "neutral_pct": 53.8
+                    }
+                }
+            },
+            {
+                "id": "17e442db-f2da-4257-833e-585f7e958e6b",
+                "full_name": "Cole Reinhardt",
+                "first_name": "Cole",
+                "last_name": "Reinhardt",
+                "handedness": "L",
+                "position": "F",
+                "primary_position": "LW",
+                "jersey_number": "23",
+                "captain": "N",
+                "played": true,
+                "sr_id": "sr:player:2080343",
+                "reference": "8481133",
+                "statistics": {
+                    "corsi_for": 9,
+                    "corsi_against": 9,
+                    "corsi_total": 0,
+                    "fenwick_for": 6,
+                    "fenwick_against": 9,
+                    "fenwick_total": -3,
+                    "on_ice_shots_for": 1,
+                    "on_ice_shots_against": 4,
+                    "average_shot_distance": 0.0,
+                    "on_ice_shots_pct": 0.2,
+                    "on_ice_shots_differential": -3,
+                    "corsi_pct": 0.5,
+                    "fenwick_pct": 0.4,
+                    "shots_by_type": [
+                        {
+                            "type": "wrist",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "slap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "backhand",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "tip",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "snap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "wrap_around",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "bat",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "cradle",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "poke",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "between_legs",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "defensive_deflection",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        }
+                    ],
+                    "starts_by_zone": {
+                        "offensive": 1,
+                        "offensive_pct": 20.0,
+                        "defensive": 3,
+                        "defensive_pct": 60.0,
+                        "neutral": 1,
+                        "neutral_pct": 20.0
+                    }
+                }
+            },
+            {
+                "id": "13a6977a-fc7e-4a08-8ef4-61907f0006b5",
+                "full_name": "Ben Hutton",
+                "first_name": "Ben",
+                "last_name": "Hutton",
+                "handedness": "L",
+                "position": "D",
+                "primary_position": "D",
+                "jersey_number": "17",
+                "captain": "N",
+                "played": true,
+                "sr_id": "sr:player:901240",
+                "reference": "8477018",
+                "statistics": {
+                    "corsi_for": 19,
+                    "corsi_against": 9,
+                    "corsi_total": 10,
+                    "fenwick_for": 14,
+                    "fenwick_against": 5,
+                    "fenwick_total": 9,
+                    "on_ice_shots_for": 7,
+                    "on_ice_shots_against": 3,
+                    "average_shot_distance": 23.0,
+                    "on_ice_shots_pct": 0.7,
+                    "on_ice_shots_differential": 4,
+                    "corsi_pct": 0.679,
+                    "fenwick_pct": 0.737,
+                    "shots_by_type": [
+                        {
+                            "type": "wrist",
+                            "shots": 1,
+                            "goals": 1,
+                            "pct": 100.0
+                        },
+                        {
+                            "type": "slap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "backhand",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "tip",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "snap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "wrap_around",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "bat",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "cradle",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "poke",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "between_legs",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "defensive_deflection",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        }
+                    ],
+                    "starts_by_zone": {
+                        "offensive": 5,
+                        "offensive_pct": 50.0,
+                        "defensive": 1,
+                        "defensive_pct": 10.0,
+                        "neutral": 4,
+                        "neutral_pct": 40.0
+                    }
+                }
+            },
+            {
+                "id": "36e0d890-9b9e-4d73-a66c-7ccfc2cbe29e",
+                "full_name": "Braeden Bowman",
+                "first_name": "Braeden",
+                "last_name": "Bowman",
+                "handedness": "R",
+                "position": "F",
+                "primary_position": "RW",
+                "jersey_number": "42",
+                "captain": "N",
+                "played": true,
+                "sr_id": "sr:player:2265979",
+                "reference": "8483890",
+                "statistics": {
+                    "corsi_for": 11,
+                    "corsi_against": 9,
+                    "corsi_total": 2,
+                    "fenwick_for": 6,
+                    "fenwick_against": 6,
+                    "fenwick_total": 0,
+                    "on_ice_shots_for": 4,
+                    "on_ice_shots_against": 4,
+                    "average_shot_distance": 14.0,
+                    "on_ice_shots_pct": 0.5,
+                    "on_ice_shots_differential": 0,
+                    "corsi_pct": 0.55,
+                    "fenwick_pct": 0.5,
+                    "shots_by_type": [
+                        {
+                            "type": "wrist",
+                            "shots": 1,
+                            "goals": 1,
+                            "pct": 100.0
+                        },
+                        {
+                            "type": "slap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "backhand",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "tip",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "snap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "wrap_around",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "bat",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "cradle",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "poke",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "between_legs",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "defensive_deflection",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        }
+                    ],
+                    "starts_by_zone": {
+                        "offensive": 8,
+                        "offensive_pct": 50.0,
+                        "defensive": 3,
+                        "defensive_pct": 18.8,
+                        "neutral": 5,
+                        "neutral_pct": 31.3
+                    }
+                }
+            },
+            {
+                "id": "fead4e41-77bb-472f-abb2-4de9147a26db",
+                "full_name": "Keegan Kolesar",
+                "first_name": "Keegan",
+                "last_name": "Kolesar",
+                "handedness": "R",
+                "position": "F",
+                "primary_position": "RW",
+                "jersey_number": "55",
+                "captain": "N",
+                "played": true,
+                "sr_id": "sr:player:908618",
+                "reference": "8478434",
+                "statistics": {
+                    "corsi_for": 9,
+                    "corsi_against": 11,
+                    "corsi_total": -2,
+                    "fenwick_for": 6,
+                    "fenwick_against": 11,
+                    "fenwick_total": -5,
+                    "on_ice_shots_for": 1,
+                    "on_ice_shots_against": 6,
+                    "average_shot_distance": 0.0,
+                    "on_ice_shots_pct": 0.143,
+                    "on_ice_shots_differential": -5,
+                    "corsi_pct": 0.45,
+                    "fenwick_pct": 0.353,
+                    "shots_by_type": [
+                        {
+                            "type": "wrist",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "slap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "backhand",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "tip",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "snap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "wrap_around",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "bat",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "cradle",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "poke",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "between_legs",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "defensive_deflection",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        }
+                    ],
+                    "starts_by_zone": {
+                        "offensive": 1,
+                        "offensive_pct": 16.7,
+                        "defensive": 3,
+                        "defensive_pct": 50.0,
+                        "neutral": 2,
+                        "neutral_pct": 33.3
+                    }
+                }
+            },
+            {
+                "id": "62d72735-9fcf-434a-bb18-a9ffab615890",
+                "full_name": "Brayden McNabb",
+                "first_name": "Brayden",
+                "last_name": "McNabb",
+                "handedness": "L",
+                "position": "D",
+                "primary_position": "D",
+                "jersey_number": "3",
+                "captain": "A",
+                "played": true,
+                "sr_id": "sr:player:214738",
+                "reference": "8475188",
+                "statistics": {
+                    "corsi_for": 15,
+                    "corsi_against": 28,
+                    "corsi_total": -13,
+                    "fenwick_for": 8,
+                    "fenwick_against": 21,
+                    "fenwick_total": -13,
+                    "on_ice_shots_for": 6,
+                    "on_ice_shots_against": 9,
+                    "average_shot_distance": 45.0,
+                    "on_ice_shots_pct": 0.4,
+                    "on_ice_shots_differential": -3,
+                    "corsi_pct": 0.349,
+                    "fenwick_pct": 0.276,
+                    "shots_by_type": [
+                        {
+                            "type": "wrist",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "slap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "backhand",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "tip",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "snap",
+                            "shots": 1,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "wrap_around",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "bat",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "cradle",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "poke",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "between_legs",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "defensive_deflection",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        }
+                    ],
+                    "starts_by_zone": {
+                        "offensive": 6,
+                        "offensive_pct": 28.6,
+                        "defensive": 11,
+                        "defensive_pct": 52.4,
+                        "neutral": 4,
+                        "neutral_pct": 19.0
+                    }
+                }
+            },
+            {
+                "id": "436ece1c-0f24-11e2-8525-18a905767e44",
+                "full_name": "Reilly Smith",
+                "first_name": "Reilly",
+                "last_name": "Smith",
+                "handedness": "L",
+                "position": "F",
+                "primary_position": "RW",
+                "jersey_number": "19",
+                "captain": "A",
+                "starter": true,
+                "played": true,
+                "sr_id": "sr:player:308050",
+                "reference": "8475191",
+                "statistics": {
+                    "corsi_for": 16,
+                    "corsi_against": 11,
+                    "corsi_total": 5,
+                    "fenwick_for": 12,
+                    "fenwick_against": 5,
+                    "fenwick_total": 7,
+                    "on_ice_shots_for": 7,
+                    "on_ice_shots_against": 1,
+                    "average_shot_distance": 11.0,
+                    "on_ice_shots_pct": 0.875,
+                    "on_ice_shots_differential": 6,
+                    "corsi_pct": 0.593,
+                    "fenwick_pct": 0.706,
+                    "shots_by_type": [
+                        {
+                            "type": "wrist",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "slap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "backhand",
+                            "shots": 1,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "tip",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "snap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "wrap_around",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "bat",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "cradle",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "poke",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "between_legs",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "defensive_deflection",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        }
+                    ],
+                    "starts_by_zone": {
+                        "offensive": 4,
+                        "offensive_pct": 30.8,
+                        "defensive": 3,
+                        "defensive_pct": 23.1,
+                        "neutral": 6,
+                        "neutral_pct": 46.2
+                    }
+                }
+            },
+            {
+                "id": "90742eb3-6cba-4ca3-9368-7dc1861e1992",
+                "full_name": "Brett Howden",
+                "first_name": "Brett",
+                "last_name": "Howden",
+                "handedness": "L",
+                "position": "F",
+                "primary_position": "C",
+                "jersey_number": "21",
+                "captain": "N",
+                "starter": true,
+                "played": true,
+                "sr_id": "sr:player:983727",
+                "reference": "8479353",
+                "statistics": {
+                    "corsi_for": 15,
+                    "corsi_against": 12,
+                    "corsi_total": 3,
+                    "fenwick_for": 11,
+                    "fenwick_against": 6,
+                    "fenwick_total": 5,
+                    "on_ice_shots_for": 6,
+                    "on_ice_shots_against": 2,
+                    "average_shot_distance": 0.0,
+                    "on_ice_shots_pct": 0.75,
+                    "on_ice_shots_differential": 4,
+                    "corsi_pct": 0.556,
+                    "fenwick_pct": 0.647,
+                    "shots_by_type": [
+                        {
+                            "type": "wrist",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "slap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "backhand",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "tip",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "snap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "wrap_around",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "bat",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "cradle",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "poke",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "between_legs",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "defensive_deflection",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        }
+                    ],
+                    "starts_by_zone": {
+                        "offensive": 3,
+                        "offensive_pct": 23.1,
+                        "defensive": 3,
+                        "defensive_pct": 23.1,
+                        "neutral": 7,
+                        "neutral_pct": 53.8
+                    }
+                }
+            },
+            {
+                "id": "32a43ff1-60d9-40dd-a4d3-810d9bf555a6",
+                "full_name": "Shea Theodore",
+                "first_name": "Shea",
+                "last_name": "Theodore",
+                "handedness": "L",
+                "position": "D",
+                "primary_position": "D",
+                "jersey_number": "27",
+                "captain": "N",
+                "played": true,
+                "sr_id": "sr:player:352072",
+                "reference": "8477447",
+                "statistics": {
+                    "corsi_for": 15,
+                    "corsi_against": 25,
+                    "corsi_total": -10,
+                    "fenwick_for": 9,
+                    "fenwick_against": 18,
+                    "fenwick_total": -9,
+                    "on_ice_shots_for": 6,
+                    "on_ice_shots_against": 8,
+                    "average_shot_distance": 103.5,
+                    "on_ice_shots_pct": 0.429,
+                    "on_ice_shots_differential": -2,
+                    "corsi_pct": 0.375,
+                    "fenwick_pct": 0.333,
+                    "shots_by_type": [
+                        {
+                            "type": "wrist",
+                            "shots": 1,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "slap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "backhand",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "tip",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "snap",
+                            "shots": 1,
+                            "goals": 1,
+                            "pct": 100.0
+                        },
+                        {
+                            "type": "wrap_around",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "bat",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "cradle",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "poke",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "between_legs",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "defensive_deflection",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        }
+                    ],
+                    "starts_by_zone": {
+                        "offensive": 7,
+                        "offensive_pct": 33.3,
+                        "defensive": 10,
+                        "defensive_pct": 47.6,
+                        "neutral": 4,
+                        "neutral_pct": 19.0
+                    }
+                }
+            },
+            {
+                "id": "949f2a71-380a-4893-8f7e-994ef19f5170",
+                "full_name": "Colton Sissons",
+                "first_name": "Colton",
+                "last_name": "Sissons",
+                "handedness": "R",
+                "position": "F",
+                "primary_position": "C",
+                "jersey_number": "10",
+                "captain": "N",
+                "played": true,
+                "sr_id": "sr:player:382144",
+                "reference": "8476925",
+                "statistics": {
+                    "corsi_for": 9,
+                    "corsi_against": 11,
+                    "corsi_total": -2,
+                    "fenwick_for": 6,
+                    "fenwick_against": 10,
+                    "fenwick_total": -4,
+                    "on_ice_shots_for": 1,
+                    "on_ice_shots_against": 4,
+                    "average_shot_distance": 35.5,
+                    "on_ice_shots_pct": 0.2,
+                    "on_ice_shots_differential": -3,
+                    "corsi_pct": 0.45,
+                    "fenwick_pct": 0.375,
+                    "shots_by_type": [
+                        {
+                            "type": "wrist",
+                            "shots": 1,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "slap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "backhand",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "tip",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "snap",
+                            "shots": 1,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "wrap_around",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "bat",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "cradle",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "poke",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "between_legs",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "defensive_deflection",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        }
+                    ],
+                    "starts_by_zone": {
+                        "offensive": 2,
+                        "offensive_pct": 33.3,
+                        "defensive": 3,
+                        "defensive_pct": 50.0,
+                        "neutral": 1,
+                        "neutral_pct": 16.7
+                    }
+                }
+            },
+            {
+                "id": "034bac71-8296-4b27-9ab8-00fd0e24d67f",
+                "full_name": "Noah Hanifin",
+                "first_name": "Noah",
+                "last_name": "Hanifin",
+                "handedness": "L",
+                "position": "D",
+                "primary_position": "D",
+                "jersey_number": "15",
+                "captain": "N",
+                "starter": true,
+                "played": true,
+                "sr_id": "sr:player:852980",
+                "reference": "8478396",
+                "statistics": {
+                    "corsi_for": 13,
+                    "corsi_against": 16,
+                    "corsi_total": -3,
+                    "fenwick_for": 9,
+                    "fenwick_against": 10,
+                    "fenwick_total": -1,
+                    "on_ice_shots_for": 5,
+                    "on_ice_shots_against": 4,
+                    "average_shot_distance": 55.5,
+                    "on_ice_shots_pct": 0.556,
+                    "on_ice_shots_differential": 1,
+                    "corsi_pct": 0.448,
+                    "fenwick_pct": 0.474,
+                    "shots_by_type": [
+                        {
+                            "type": "wrist",
+                            "shots": 2,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "slap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "backhand",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "tip",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "snap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "wrap_around",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "bat",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "cradle",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "poke",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "between_legs",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "defensive_deflection",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        }
+                    ],
+                    "starts_by_zone": {
+                        "offensive": 4,
+                        "offensive_pct": 25.0,
+                        "defensive": 3,
+                        "defensive_pct": 18.8,
+                        "neutral": 9,
+                        "neutral_pct": 56.3
+                    }
+                }
+            },
+            {
+                "id": "58f4e5f9-6811-48b7-b180-02a433ebf1a3",
+                "full_name": "Ivan Barbashev",
+                "first_name": "Ivan",
+                "last_name": "Barbashev",
+                "handedness": "L",
+                "position": "F",
+                "primary_position": "C",
+                "jersey_number": "49",
+                "captain": "N",
+                "played": true,
+                "sr_id": "sr:player:901226",
+                "reference": "8477964",
+                "statistics": {
+                    "corsi_for": 13,
+                    "corsi_against": 13,
+                    "corsi_total": 0,
+                    "fenwick_for": 7,
+                    "fenwick_against": 10,
+                    "fenwick_total": -3,
+                    "on_ice_shots_for": 5,
+                    "on_ice_shots_against": 7,
+                    "average_shot_distance": 0.0,
+                    "on_ice_shots_pct": 0.417,
+                    "on_ice_shots_differential": -2,
+                    "corsi_pct": 0.5,
+                    "fenwick_pct": 0.412,
+                    "shots_by_type": [
+                        {
+                            "type": "wrist",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "slap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "backhand",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "tip",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "snap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "wrap_around",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "bat",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "cradle",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "poke",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "between_legs",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "defensive_deflection",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        }
+                    ],
+                    "starts_by_zone": {
+                        "offensive": 7,
+                        "offensive_pct": 41.2,
+                        "defensive": 4,
+                        "defensive_pct": 23.5,
+                        "neutral": 6,
+                        "neutral_pct": 35.3
+                    }
+                }
+            },
+            {
+                "id": "b6469001-5c10-494a-a27c-44765044e016",
+                "full_name": "Mitch Marner",
+                "first_name": "Mitch",
+                "last_name": "Marner",
+                "handedness": "R",
+                "position": "F",
+                "primary_position": "RW",
+                "jersey_number": "93",
+                "captain": "N",
+                "played": true,
+                "sr_id": "sr:player:852982",
+                "reference": "8478483",
+                "statistics": {
+                    "corsi_for": 11,
+                    "corsi_against": 22,
+                    "corsi_total": -11,
+                    "fenwick_for": 8,
+                    "fenwick_against": 14,
+                    "fenwick_total": -6,
+                    "on_ice_shots_for": 7,
+                    "on_ice_shots_against": 5,
+                    "average_shot_distance": 56.0,
+                    "on_ice_shots_pct": 0.583,
+                    "on_ice_shots_differential": 2,
+                    "corsi_pct": 0.333,
+                    "fenwick_pct": 0.364,
+                    "shots_by_type": [
+                        {
+                            "type": "wrist",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "slap",
+                            "shots": 1,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "backhand",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "tip",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "snap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "wrap_around",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "bat",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "cradle",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "poke",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "between_legs",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "defensive_deflection",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        }
+                    ],
+                    "starts_by_zone": {
+                        "offensive": 6,
+                        "offensive_pct": 37.5,
+                        "defensive": 6,
+                        "defensive_pct": 37.5,
+                        "neutral": 4,
+                        "neutral_pct": 25.0
+                    }
+                }
+            },
+            {
+                "id": "a8703093-9f62-4d05-b849-5431c6fc4dea",
+                "full_name": "Carl Lindbom",
+                "first_name": "Carl",
+                "last_name": "Lindbom",
+                "handedness": "L",
+                "position": "G",
+                "primary_position": "G",
+                "jersey_number": "30",
+                "captain": "N",
+                "sr_id": "sr:player:2100482",
+                "reference": "8482761",
+                "statistics": {
+                    "corsi_total": 0,
+                    "fenwick_total": 0,
+                    "average_shot_distance": 0.0,
+                    "on_ice_shots_pct": 0.0,
+                    "on_ice_shots_differential": 0,
+                    "corsi_pct": 0.0,
+                    "fenwick_pct": 0.0,
+                    "shots_by_type": [
+                        {
+                            "type": "wrist",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "slap",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "backhand",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "tip",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "snap",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "wrap_around",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "bat",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "cradle",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "poke",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "between_legs",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "defensive_deflection",
+                            "pct": 0.0
+                        }
+                    ],
+                    "starts_by_zone": {
+                        "offensive_pct": 0.0,
+                        "defensive_pct": 0.0,
+                        "neutral_pct": 0.0
+                    }
+                }
+            },
+            {
+                "id": "64669a46-a90a-4d58-a759-87e5d0591515",
+                "full_name": "Tomas Hertl",
+                "first_name": "Tomas",
+                "last_name": "Hertl",
+                "handedness": "L",
+                "position": "F",
+                "primary_position": "C",
+                "jersey_number": "48",
+                "captain": "N",
+                "played": true,
+                "sr_id": "sr:player:179667",
+                "reference": "8476881",
+                "statistics": {
+                    "corsi_for": 9,
+                    "corsi_against": 17,
+                    "corsi_total": -8,
+                    "fenwick_for": 6,
+                    "fenwick_against": 10,
+                    "fenwick_total": -4,
+                    "on_ice_shots_for": 5,
+                    "on_ice_shots_against": 3,
+                    "average_shot_distance": 52.5,
+                    "on_ice_shots_pct": 0.625,
+                    "on_ice_shots_differential": 2,
+                    "corsi_pct": 0.346,
+                    "fenwick_pct": 0.375,
+                    "shots_by_type": [
+                        {
+                            "type": "wrist",
+                            "shots": 1,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "slap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "backhand",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "tip",
+                            "shots": 1,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "snap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "wrap_around",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "bat",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "cradle",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "poke",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "between_legs",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "defensive_deflection",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        }
+                    ],
+                    "starts_by_zone": {
+                        "offensive": 6,
+                        "offensive_pct": 42.9,
+                        "defensive": 5,
+                        "defensive_pct": 35.7,
+                        "neutral": 3,
+                        "neutral_pct": 21.4
+                    }
+                }
+            },
+            {
+                "id": "d0f7bd22-141d-450c-b4ec-5dafa0f63cde",
+                "full_name": "Akira Schmid",
+                "first_name": "Akira",
+                "last_name": "Schmid",
+                "handedness": "L",
+                "position": "G",
+                "primary_position": "G",
+                "jersey_number": "40",
+                "captain": "N",
+                "starter": true,
+                "played": true,
+                "sr_id": "sr:player:1382697",
+                "reference": "8481033",
+                "statistics": {
+                    "corsi_for": 45,
+                    "corsi_against": 53,
+                    "corsi_total": -8,
+                    "fenwick_for": 31,
+                    "fenwick_against": 36,
+                    "fenwick_total": -5,
+                    "on_ice_shots_for": 18,
+                    "on_ice_shots_against": 16,
+                    "average_shot_distance": 0.0,
+                    "on_ice_shots_pct": 0.529,
+                    "on_ice_shots_differential": 2,
+                    "corsi_pct": 0.459,
+                    "fenwick_pct": 0.463,
+                    "shots_by_type": [
+                        {
+                            "type": "wrist",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "slap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "backhand",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "tip",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "snap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "wrap_around",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "bat",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "cradle",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "poke",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "between_legs",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "defensive_deflection",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        }
+                    ],
+                    "starts_by_zone": {
+                        "offensive": 17,
+                        "offensive_pct": 34.7,
+                        "defensive": 15,
+                        "defensive_pct": 30.6,
+                        "neutral": 17,
+                        "neutral_pct": 34.7
+                    }
+                }
+            },
+            {
+                "id": "8b666187-cf65-49fa-a12e-a03a5c0526b9",
+                "full_name": "Pavel Dorofeyev",
+                "first_name": "Pavel",
+                "last_name": "Dorofeyev",
+                "handedness": "L",
+                "position": "F",
+                "primary_position": "LW",
+                "jersey_number": "16",
+                "captain": "N",
+                "played": true,
+                "sr_id": "sr:player:1604286",
+                "reference": "8481604",
+                "statistics": {
+                    "corsi_for": 10,
+                    "corsi_against": 19,
+                    "corsi_total": -9,
+                    "fenwick_for": 7,
+                    "fenwick_against": 11,
+                    "fenwick_total": -4,
+                    "on_ice_shots_for": 6,
+                    "on_ice_shots_against": 3,
+                    "average_shot_distance": 21.3,
+                    "on_ice_shots_pct": 0.667,
+                    "on_ice_shots_differential": 3,
+                    "corsi_pct": 0.345,
+                    "fenwick_pct": 0.389,
+                    "shots_by_type": [
+                        {
+                            "type": "wrist",
+                            "shots": 2,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "slap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "backhand",
+                            "shots": 1,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "tip",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "snap",
+                            "shots": 1,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "wrap_around",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "bat",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "cradle",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "poke",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "between_legs",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "defensive_deflection",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        }
+                    ],
+                    "starts_by_zone": {
+                        "offensive": 6,
+                        "offensive_pct": 42.9,
+                        "defensive": 5,
+                        "defensive_pct": 35.7,
+                        "neutral": 3,
+                        "neutral_pct": 21.4
+                    }
+                }
+            },
+            {
+                "id": "2973ef34-57b8-4abd-9d31-cb44b0c3bc68",
+                "full_name": "Tanner Laczynski",
+                "first_name": "Tanner",
+                "last_name": "Laczynski",
+                "handedness": "R",
+                "position": "F",
+                "primary_position": "C",
+                "jersey_number": "28",
+                "captain": "N",
+                "scratched": true,
+                "sr_id": "sr:player:1004613",
+                "reference": "8479550",
+                "statistics": {
+                    "corsi_total": 0,
+                    "fenwick_total": 0,
+                    "average_shot_distance": 0.0,
+                    "on_ice_shots_pct": 0.0,
+                    "on_ice_shots_differential": 0,
+                    "corsi_pct": 0.0,
+                    "fenwick_pct": 0.0,
+                    "shots_by_type": [
+                        {
+                            "type": "wrist",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "slap",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "backhand",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "tip",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "snap",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "wrap_around",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "bat",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "cradle",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "poke",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "between_legs",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "defensive_deflection",
+                            "pct": 0.0
+                        }
+                    ],
+                    "starts_by_zone": {
+                        "offensive_pct": 0.0,
+                        "defensive_pct": 0.0,
+                        "neutral_pct": 0.0
+                    }
+                }
+            }
+        ]
+    },
+    "away": {
+        "id": "441781b9-0f24-11e2-8525-18a905767e44",
+        "name": "Rangers",
+        "market": "New York",
+        "points": 2,
+        "sr_id": "sr:team:3701",
+        "reference": "3",
+        "strength": "even",
+        "statistics": {
+            "corsi_for": 53,
+            "corsi_against": 46,
+            "corsi_total": 7,
+            "fenwick_for": 36,
+            "fenwick_against": 31,
+            "fenwick_total": 5,
+            "on_ice_shots_for": 16,
+            "on_ice_shots_against": 18,
+            "average_shot_distance": 31.9,
+            "on_ice_shots_pct": 0.471,
+            "on_ice_shots_differential": -2,
+            "corsi_pct": 0.535,
+            "fenwick_pct": 0.537,
+            "pdo": 11.385,
+            "shots_by_type": [
+                {
+                    "type": "wrist",
+                    "shots": 10,
+                    "goals": 0,
+                    "pct": 0.0
+                },
+                {
+                    "type": "slap",
+                    "shots": 3,
+                    "goals": 0,
+                    "pct": 0.0
+                },
+                {
+                    "type": "backhand",
+                    "shots": 0,
+                    "goals": 0,
+                    "pct": 0.0
+                },
+                {
+                    "type": "tip",
+                    "shots": 2,
+                    "goals": 1,
+                    "pct": 50.0
+                },
+                {
+                    "type": "snap",
+                    "shots": 3,
+                    "goals": 1,
+                    "pct": 33.3
+                },
+                {
+                    "type": "wrap_around",
+                    "shots": 0,
+                    "goals": 0,
+                    "pct": 0.0
+                },
+                {
+                    "type": "bat",
+                    "shots": 1,
+                    "goals": 0,
+                    "pct": 0.0
+                },
+                {
+                    "type": "cradle",
+                    "shots": 0,
+                    "goals": 0,
+                    "pct": 0.0
+                },
+                {
+                    "type": "poke",
+                    "shots": 0,
+                    "goals": 0,
+                    "pct": 0.0
+                },
+                {
+                    "type": "between_legs",
+                    "shots": 0,
+                    "goals": 0,
+                    "pct": 0.0
+                },
+                {
+                    "type": "defensive_deflection",
+                    "shots": 0,
+                    "goals": 0,
+                    "pct": 0.0
+                }
+            ]
+        },
+        "players": [
+            {
+                "id": "29c261cf-ad6a-4f70-808e-891a05e8cf47",
+                "full_name": "Conor Sheary",
+                "first_name": "Conor",
+                "last_name": "Sheary",
+                "handedness": "L",
+                "position": "F",
+                "primary_position": "LW",
+                "jersey_number": "43",
+                "captain": "N",
+                "played": true,
+                "sr_id": "sr:player:854486",
+                "reference": "8477839",
+                "statistics": {
+                    "corsi_for": 12,
+                    "corsi_against": 13,
+                    "corsi_total": -1,
+                    "fenwick_for": 6,
+                    "fenwick_against": 9,
+                    "fenwick_total": -3,
+                    "on_ice_shots_for": 2,
+                    "on_ice_shots_against": 8,
+                    "average_shot_distance": 0.0,
+                    "on_ice_shots_pct": 0.2,
+                    "on_ice_shots_differential": -6,
+                    "corsi_pct": 0.48,
+                    "fenwick_pct": 0.4,
+                    "shots_by_type": [
+                        {
+                            "type": "wrist",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "slap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "backhand",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "tip",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "snap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "wrap_around",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "bat",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "cradle",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "poke",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "between_legs",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "defensive_deflection",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        }
+                    ],
+                    "starts_by_zone": {
+                        "offensive": 2,
+                        "offensive_pct": 18.2,
+                        "defensive": 6,
+                        "defensive_pct": 54.5,
+                        "neutral": 3,
+                        "neutral_pct": 27.3
+                    }
+                }
+            },
+            {
+                "id": "019e74ad-95fb-478a-bff7-b549fceadabf",
+                "full_name": "Artemi Panarin",
+                "first_name": "Artemi",
+                "last_name": "Panarin",
+                "handedness": "R",
+                "position": "F",
+                "primary_position": "LW",
+                "jersey_number": "10",
+                "captain": "N",
+                "played": true,
+                "sr_id": "sr:player:104807",
+                "reference": "8478550",
+                "statistics": {
+                    "corsi_for": 20,
+                    "corsi_against": 11,
+                    "corsi_total": 9,
+                    "fenwick_for": 14,
+                    "fenwick_against": 6,
+                    "fenwick_total": 8,
+                    "on_ice_shots_for": 7,
+                    "on_ice_shots_against": 3,
+                    "average_shot_distance": 32.0,
+                    "on_ice_shots_pct": 0.7,
+                    "on_ice_shots_differential": 4,
+                    "corsi_pct": 0.645,
+                    "fenwick_pct": 0.7,
+                    "shots_by_type": [
+                        {
+                            "type": "wrist",
+                            "shots": 1,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "slap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "backhand",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "tip",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "snap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "wrap_around",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "bat",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "cradle",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "poke",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "between_legs",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "defensive_deflection",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        }
+                    ],
+                    "starts_by_zone": {
+                        "offensive": 8,
+                        "offensive_pct": 50.0,
+                        "defensive": 4,
+                        "defensive_pct": 25.0,
+                        "neutral": 4,
+                        "neutral_pct": 25.0
+                    }
+                }
+            },
+            {
+                "id": "16bf9f68-95f9-4789-a811-80fe6838e632",
+                "full_name": "Vincent Trocheck",
+                "first_name": "Vincent",
+                "last_name": "Trocheck",
+                "handedness": "R",
+                "position": "F",
+                "primary_position": "C",
+                "jersey_number": "16",
+                "captain": "A",
+                "played": true,
+                "sr_id": "sr:player:352050",
+                "reference": "8476389",
+                "statistics": {
+                    "corsi_for": 19,
+                    "corsi_against": 11,
+                    "corsi_total": 8,
+                    "fenwick_for": 13,
+                    "fenwick_against": 6,
+                    "fenwick_total": 7,
+                    "on_ice_shots_for": 6,
+                    "on_ice_shots_against": 3,
+                    "average_shot_distance": 6.5,
+                    "on_ice_shots_pct": 0.667,
+                    "on_ice_shots_differential": 3,
+                    "corsi_pct": 0.633,
+                    "fenwick_pct": 0.684,
+                    "shots_by_type": [
+                        {
+                            "type": "wrist",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "slap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "backhand",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "tip",
+                            "shots": 1,
+                            "goals": 1,
+                            "pct": 100.0
+                        },
+                        {
+                            "type": "snap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "wrap_around",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "bat",
+                            "shots": 1,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "cradle",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "poke",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "between_legs",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "defensive_deflection",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        }
+                    ],
+                    "starts_by_zone": {
+                        "offensive": 8,
+                        "offensive_pct": 53.3,
+                        "defensive": 4,
+                        "defensive_pct": 26.7,
+                        "neutral": 3,
+                        "neutral_pct": 20.0
+                    }
+                }
+            },
+            {
+                "id": "73fc009c-cbf2-4948-80d1-fe9d7a4b4163",
+                "full_name": "Alexis Lafreniere",
+                "first_name": "Alexis",
+                "last_name": "Lafreniere",
+                "handedness": "L",
+                "position": "F",
+                "primary_position": "LW",
+                "jersey_number": "13",
+                "captain": "N",
+                "played": true,
+                "sr_id": "sr:player:1654151",
+                "reference": "8482109",
+                "statistics": {
+                    "corsi_for": 15,
+                    "corsi_against": 6,
+                    "corsi_total": 9,
+                    "fenwick_for": 8,
+                    "fenwick_against": 3,
+                    "fenwick_total": 5,
+                    "on_ice_shots_for": 2,
+                    "on_ice_shots_against": 2,
+                    "average_shot_distance": 38.0,
+                    "on_ice_shots_pct": 0.5,
+                    "on_ice_shots_differential": 0,
+                    "corsi_pct": 0.714,
+                    "fenwick_pct": 0.727,
+                    "shots_by_type": [
+                        {
+                            "type": "wrist",
+                            "shots": 1,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "slap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "backhand",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "tip",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "snap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "wrap_around",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "bat",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "cradle",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "poke",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "between_legs",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "defensive_deflection",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        }
+                    ],
+                    "starts_by_zone": {
+                        "offensive": 6,
+                        "offensive_pct": 42.9,
+                        "defensive": 4,
+                        "defensive_pct": 28.6,
+                        "neutral": 4,
+                        "neutral_pct": 28.6
+                    }
+                }
+            },
+            {
+                "id": "e9b82404-aebb-4ef7-95ff-fb380dcf2458",
+                "full_name": "Noah Laba",
+                "first_name": "Noah",
+                "last_name": "Laba",
+                "handedness": "R",
+                "position": "F",
+                "primary_position": "C",
+                "jersey_number": "42",
+                "captain": "N",
+                "played": true,
+                "sr_id": "sr:player:2278057",
+                "reference": "8483690",
+                "statistics": {
+                    "corsi_for": 13,
+                    "corsi_against": 13,
+                    "corsi_total": 0,
+                    "fenwick_for": 8,
+                    "fenwick_against": 9,
+                    "fenwick_total": -1,
+                    "on_ice_shots_for": 4,
+                    "on_ice_shots_against": 8,
+                    "average_shot_distance": 11.0,
+                    "on_ice_shots_pct": 0.333,
+                    "on_ice_shots_differential": -4,
+                    "corsi_pct": 0.5,
+                    "fenwick_pct": 0.471,
+                    "shots_by_type": [
+                        {
+                            "type": "wrist",
+                            "shots": 1,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "slap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "backhand",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "tip",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "snap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "wrap_around",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "bat",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "cradle",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "poke",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "between_legs",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "defensive_deflection",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        }
+                    ],
+                    "starts_by_zone": {
+                        "offensive": 2,
+                        "offensive_pct": 16.7,
+                        "defensive": 6,
+                        "defensive_pct": 50.0,
+                        "neutral": 4,
+                        "neutral_pct": 33.3
+                    }
+                }
+            },
+            {
+                "id": "d57c7da4-b733-4137-94d3-388dd2b60cba",
+                "full_name": "Vladislav Gavrikov",
+                "first_name": "Vladislav",
+                "last_name": "Gavrikov",
+                "handedness": "L",
+                "position": "D",
+                "primary_position": "D",
+                "jersey_number": "44",
+                "captain": "N",
+                "starter": true,
+                "played": true,
+                "sr_id": "sr:player:793408",
+                "reference": "8478882",
+                "statistics": {
+                    "corsi_for": 27,
+                    "corsi_against": 14,
+                    "corsi_total": 13,
+                    "fenwick_for": 16,
+                    "fenwick_against": 11,
+                    "fenwick_total": 5,
+                    "on_ice_shots_for": 6,
+                    "on_ice_shots_against": 7,
+                    "average_shot_distance": 37.0,
+                    "on_ice_shots_pct": 0.462,
+                    "on_ice_shots_differential": -1,
+                    "corsi_pct": 0.659,
+                    "fenwick_pct": 0.593,
+                    "shots_by_type": [
+                        {
+                            "type": "wrist",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "slap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "backhand",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "tip",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "snap",
+                            "shots": 1,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "wrap_around",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "bat",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "cradle",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "poke",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "between_legs",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "defensive_deflection",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        }
+                    ],
+                    "starts_by_zone": {
+                        "offensive": 12,
+                        "offensive_pct": 44.4,
+                        "defensive": 5,
+                        "defensive_pct": 18.5,
+                        "neutral": 10,
+                        "neutral_pct": 37.0
+                    }
+                }
+            },
+            {
+                "id": "cc43e76c-a872-4b40-89fc-5d5830fae446",
+                "full_name": "Will Cuylle",
+                "first_name": "Will",
+                "last_name": "Cuylle",
+                "handedness": "L",
+                "position": "F",
+                "primary_position": "LW",
+                "jersey_number": "50",
+                "captain": "N",
+                "starter": true,
+                "played": true,
+                "sr_id": "sr:player:2073101",
+                "reference": "8482157",
+                "statistics": {
+                    "corsi_for": 12,
+                    "corsi_against": 19,
+                    "corsi_total": -7,
+                    "fenwick_for": 11,
+                    "fenwick_against": 12,
+                    "fenwick_total": -1,
+                    "on_ice_shots_for": 7,
+                    "on_ice_shots_against": 8,
+                    "average_shot_distance": 19.0,
+                    "on_ice_shots_pct": 0.467,
+                    "on_ice_shots_differential": -1,
+                    "corsi_pct": 0.387,
+                    "fenwick_pct": 0.478,
+                    "shots_by_type": [
+                        {
+                            "type": "wrist",
+                            "shots": 1,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "slap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "backhand",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "tip",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "snap",
+                            "shots": 1,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "wrap_around",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "bat",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "cradle",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "poke",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "between_legs",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "defensive_deflection",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        }
+                    ],
+                    "starts_by_zone": {
+                        "offensive": 3,
+                        "offensive_pct": 23.1,
+                        "defensive": 2,
+                        "defensive_pct": 15.4,
+                        "neutral": 8,
+                        "neutral_pct": 61.5
+                    }
+                }
+            },
+            {
+                "id": "1d20fd77-fd49-4cb3-8b72-ecd5f7ab6c0d",
+                "full_name": "Jonny Brodzinski",
+                "first_name": "Jonny",
+                "last_name": "Brodzinski",
+                "handedness": "R",
+                "position": "F",
+                "primary_position": "C",
+                "jersey_number": "22",
+                "captain": "N",
+                "played": true,
+                "sr_id": "sr:player:905440",
+                "reference": "8477380",
+                "statistics": {
+                    "corsi_for": 19,
+                    "corsi_against": 14,
+                    "corsi_total": 5,
+                    "fenwick_for": 12,
+                    "fenwick_against": 11,
+                    "fenwick_total": 1,
+                    "on_ice_shots_for": 5,
+                    "on_ice_shots_against": 7,
+                    "average_shot_distance": 6.0,
+                    "on_ice_shots_pct": 0.417,
+                    "on_ice_shots_differential": -2,
+                    "corsi_pct": 0.576,
+                    "fenwick_pct": 0.522,
+                    "shots_by_type": [
+                        {
+                            "type": "wrist",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "slap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "backhand",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "tip",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "snap",
+                            "shots": 1,
+                            "goals": 1,
+                            "pct": 100.0
+                        },
+                        {
+                            "type": "wrap_around",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "bat",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "cradle",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "poke",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "between_legs",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "defensive_deflection",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        }
+                    ],
+                    "starts_by_zone": {
+                        "offensive": 5,
+                        "offensive_pct": 29.4,
+                        "defensive": 8,
+                        "defensive_pct": 47.1,
+                        "neutral": 4,
+                        "neutral_pct": 23.5
+                    }
+                }
+            },
+            {
+                "id": "4284802d-0f24-11e2-8525-18a905767e44",
+                "full_name": "Jonathan Quick",
+                "first_name": "Jonathan",
+                "last_name": "Quick",
+                "handedness": "L",
+                "position": "G",
+                "primary_position": "G",
+                "jersey_number": "32",
+                "captain": "N",
+                "sr_id": "sr:player:93723",
+                "reference": "8471734",
+                "statistics": {
+                    "corsi_total": 0,
+                    "fenwick_total": 0,
+                    "average_shot_distance": 0.0,
+                    "on_ice_shots_pct": 0.0,
+                    "on_ice_shots_differential": 0,
+                    "corsi_pct": 0.0,
+                    "fenwick_pct": 0.0,
+                    "shots_by_type": [
+                        {
+                            "type": "wrist",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "slap",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "backhand",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "tip",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "snap",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "wrap_around",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "bat",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "cradle",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "poke",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "between_legs",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "defensive_deflection",
+                            "pct": 0.0
+                        }
+                    ],
+                    "starts_by_zone": {
+                        "offensive_pct": 0.0,
+                        "defensive_pct": 0.0,
+                        "neutral_pct": 0.0
+                    }
+                }
+            },
+            {
+                "id": "e448f557-fb48-4816-ab7a-dd32b92f7d5c",
+                "full_name": "Sam Carrick",
+                "first_name": "Sam",
+                "last_name": "Carrick",
+                "handedness": "R",
+                "position": "F",
+                "primary_position": "C",
+                "jersey_number": "39",
+                "captain": "N",
+                "played": true,
+                "sr_id": "sr:player:608376",
+                "reference": "8475842",
+                "statistics": {
+                    "corsi_for": 9,
+                    "corsi_against": 6,
+                    "corsi_total": 3,
+                    "fenwick_for": 6,
+                    "fenwick_against": 4,
+                    "fenwick_total": 2,
+                    "on_ice_shots_for": 3,
+                    "on_ice_shots_against": 0,
+                    "average_shot_distance": 0.0,
+                    "on_ice_shots_pct": 1.0,
+                    "on_ice_shots_differential": 3,
+                    "corsi_pct": 0.6,
+                    "fenwick_pct": 0.6,
+                    "shots_by_type": [
+                        {
+                            "type": "wrist",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "slap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "backhand",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "tip",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "snap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "wrap_around",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "bat",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "cradle",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "poke",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "between_legs",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "defensive_deflection",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        }
+                    ],
+                    "starts_by_zone": {
+                        "offensive": 1,
+                        "offensive_pct": 33.3,
+                        "defensive": 1,
+                        "defensive_pct": 33.3,
+                        "neutral": 1,
+                        "neutral_pct": 33.3
+                    }
+                }
+            },
+            {
+                "id": "fd5476db-19ff-4f08-95f5-30553a8982f0",
+                "full_name": "Adam Edstrom",
+                "first_name": "Adam",
+                "last_name": "Edstrom",
+                "handedness": "L",
+                "position": "F",
+                "primary_position": "C",
+                "jersey_number": "84",
+                "captain": "N",
+                "scratched": true,
+                "sr_id": "sr:player:1596438",
+                "reference": "8481726",
+                "statistics": {
+                    "corsi_total": 0,
+                    "fenwick_total": 0,
+                    "average_shot_distance": 0.0,
+                    "on_ice_shots_pct": 0.0,
+                    "on_ice_shots_differential": 0,
+                    "corsi_pct": 0.0,
+                    "fenwick_pct": 0.0,
+                    "shots_by_type": [
+                        {
+                            "type": "wrist",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "slap",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "backhand",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "tip",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "snap",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "wrap_around",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "bat",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "cradle",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "poke",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "between_legs",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "defensive_deflection",
+                            "pct": 0.0
+                        }
+                    ],
+                    "starts_by_zone": {
+                        "offensive_pct": 0.0,
+                        "defensive_pct": 0.0,
+                        "neutral_pct": 0.0
+                    }
+                }
+            },
+            {
+                "id": "42f5f2cc-0f24-11e2-8525-18a905767e44",
+                "full_name": "Mika Zibanejad",
+                "first_name": "Mika",
+                "last_name": "Zibanejad",
+                "handedness": "R",
+                "position": "F",
+                "primary_position": "C",
+                "jersey_number": "93",
+                "captain": "N",
+                "starter": true,
+                "played": true,
+                "sr_id": "sr:player:145201",
+                "reference": "8476459",
+                "statistics": {
+                    "corsi_for": 17,
+                    "corsi_against": 19,
+                    "corsi_total": -2,
+                    "fenwick_for": 14,
+                    "fenwick_against": 13,
+                    "fenwick_total": 1,
+                    "on_ice_shots_for": 7,
+                    "on_ice_shots_against": 7,
+                    "average_shot_distance": 28.5,
+                    "on_ice_shots_pct": 0.5,
+                    "on_ice_shots_differential": 0,
+                    "corsi_pct": 0.472,
+                    "fenwick_pct": 0.519,
+                    "shots_by_type": [
+                        {
+                            "type": "wrist",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "slap",
+                            "shots": 2,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "backhand",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "tip",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "snap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "wrap_around",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "bat",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "cradle",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "poke",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "between_legs",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "defensive_deflection",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        }
+                    ],
+                    "starts_by_zone": {
+                        "offensive": 7,
+                        "offensive_pct": 35.0,
+                        "defensive": 4,
+                        "defensive_pct": 20.0,
+                        "neutral": 9,
+                        "neutral_pct": 45.0
+                    }
+                }
+            },
+            {
+                "id": "8e79e2de-184a-4760-8fb5-1d6eeb2aa758",
+                "full_name": "Scott Morrow",
+                "first_name": "Scott",
+                "last_name": "Morrow",
+                "handedness": "R",
+                "position": "D",
+                "primary_position": "D",
+                "jersey_number": "60",
+                "captain": "N",
+                "scratched": true,
+                "sr_id": "sr:player:2174702",
+                "reference": "8482666",
+                "statistics": {
+                    "corsi_total": 0,
+                    "fenwick_total": 0,
+                    "average_shot_distance": 0.0,
+                    "on_ice_shots_pct": 0.0,
+                    "on_ice_shots_differential": 0,
+                    "corsi_pct": 0.0,
+                    "fenwick_pct": 0.0,
+                    "shots_by_type": [
+                        {
+                            "type": "wrist",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "slap",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "backhand",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "tip",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "snap",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "wrap_around",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "bat",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "cradle",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "poke",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "between_legs",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "defensive_deflection",
+                            "pct": 0.0
+                        }
+                    ],
+                    "starts_by_zone": {
+                        "offensive_pct": 0.0,
+                        "defensive_pct": 0.0,
+                        "neutral_pct": 0.0
+                    }
+                }
+            },
+            {
+                "id": "c2600985-d9c8-4b54-a272-721d3e1b1ab0",
+                "full_name": "Braden Schneider",
+                "first_name": "Braden",
+                "last_name": "Schneider",
+                "handedness": "R",
+                "position": "D",
+                "primary_position": "D",
+                "jersey_number": "4",
+                "captain": "N",
+                "played": true,
+                "sr_id": "sr:player:1980391",
+                "reference": "8482073",
+                "statistics": {
+                    "corsi_for": 9,
+                    "corsi_against": 17,
+                    "corsi_total": -8,
+                    "fenwick_for": 6,
+                    "fenwick_against": 11,
+                    "fenwick_total": -5,
+                    "on_ice_shots_for": 2,
+                    "on_ice_shots_against": 6,
+                    "average_shot_distance": 41.0,
+                    "on_ice_shots_pct": 0.25,
+                    "on_ice_shots_differential": -4,
+                    "corsi_pct": 0.346,
+                    "fenwick_pct": 0.353,
+                    "shots_by_type": [
+                        {
+                            "type": "wrist",
+                            "shots": 1,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "slap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "backhand",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "tip",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "snap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "wrap_around",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "bat",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "cradle",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "poke",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "between_legs",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "defensive_deflection",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        }
+                    ],
+                    "starts_by_zone": {
+                        "offensive": 1,
+                        "offensive_pct": 12.5,
+                        "defensive": 6,
+                        "defensive_pct": 75.0,
+                        "neutral": 1,
+                        "neutral_pct": 12.5
+                    }
+                }
+            },
+            {
+                "id": "813d6f7b-8ed4-456a-8ffe-295a858c6376",
+                "full_name": "Urho Vaakanainen",
+                "first_name": "Urho",
+                "last_name": "Vaakanainen",
+                "handedness": "L",
+                "position": "D",
+                "primary_position": "D",
+                "jersey_number": "18",
+                "captain": "N",
+                "scratched": true,
+                "sr_id": "sr:player:936898",
+                "reference": "8480001",
+                "statistics": {
+                    "corsi_total": 0,
+                    "fenwick_total": 0,
+                    "average_shot_distance": 0.0,
+                    "on_ice_shots_pct": 0.0,
+                    "on_ice_shots_differential": 0,
+                    "corsi_pct": 0.0,
+                    "fenwick_pct": 0.0,
+                    "shots_by_type": [
+                        {
+                            "type": "wrist",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "slap",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "backhand",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "tip",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "snap",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "wrap_around",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "bat",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "cradle",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "poke",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "between_legs",
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "defensive_deflection",
+                            "pct": 0.0
+                        }
+                    ],
+                    "starts_by_zone": {
+                        "offensive_pct": 0.0,
+                        "defensive_pct": 0.0,
+                        "neutral_pct": 0.0
+                    }
+                }
+            },
+            {
+                "id": "573e9cc9-0e8e-4cf6-8555-2effbec6751f",
+                "full_name": "Taylor Raddysh",
+                "first_name": "Taylor",
+                "last_name": "Raddysh",
+                "handedness": "R",
+                "position": "F",
+                "primary_position": "RW",
+                "jersey_number": "14",
+                "captain": "N",
+                "played": true,
+                "sr_id": "sr:player:983679",
+                "reference": "8479390",
+                "statistics": {
+                    "corsi_for": 8,
+                    "corsi_against": 6,
+                    "corsi_total": 2,
+                    "fenwick_for": 6,
+                    "fenwick_against": 4,
+                    "fenwick_total": 2,
+                    "on_ice_shots_for": 3,
+                    "on_ice_shots_against": 0,
+                    "average_shot_distance": 0.0,
+                    "on_ice_shots_pct": 1.0,
+                    "on_ice_shots_differential": 3,
+                    "corsi_pct": 0.571,
+                    "fenwick_pct": 0.6,
+                    "shots_by_type": [
+                        {
+                            "type": "wrist",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "slap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "backhand",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "tip",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "snap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "wrap_around",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "bat",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "cradle",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "poke",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "between_legs",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "defensive_deflection",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        }
+                    ],
+                    "starts_by_zone": {
+                        "offensive": 1,
+                        "offensive_pct": 33.3,
+                        "defensive": 1,
+                        "defensive_pct": 33.3,
+                        "neutral": 1,
+                        "neutral_pct": 33.3
+                    }
+                }
+            },
+            {
+                "id": "9309562d-2fde-4678-8e5a-3ed1cad45d2a",
+                "full_name": "Adam Fox",
+                "first_name": "Adam",
+                "last_name": "Fox",
+                "handedness": "R",
+                "position": "D",
+                "primary_position": "D",
+                "jersey_number": "23",
+                "captain": "A",
+                "starter": true,
+                "played": true,
+                "sr_id": "sr:player:984105",
+                "reference": "8479323",
+                "statistics": {
+                    "corsi_for": 34,
+                    "corsi_against": 20,
+                    "corsi_total": 14,
+                    "fenwick_for": 23,
+                    "fenwick_against": 15,
+                    "fenwick_total": 8,
+                    "on_ice_shots_for": 11,
+                    "on_ice_shots_against": 9,
+                    "average_shot_distance": 56.0,
+                    "on_ice_shots_pct": 0.55,
+                    "on_ice_shots_differential": 2,
+                    "corsi_pct": 0.63,
+                    "fenwick_pct": 0.605,
+                    "shots_by_type": [
+                        {
+                            "type": "wrist",
+                            "shots": 4,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "slap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "backhand",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "tip",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "snap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "wrap_around",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "bat",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "cradle",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "poke",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "between_legs",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "defensive_deflection",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        }
+                    ],
+                    "starts_by_zone": {
+                        "offensive": 14,
+                        "offensive_pct": 51.9,
+                        "defensive": 4,
+                        "defensive_pct": 14.8,
+                        "neutral": 9,
+                        "neutral_pct": 33.3
+                    }
+                }
+            },
+            {
+                "id": "30d3b91d-c0d2-40e0-ba17-2a21882c43af",
+                "full_name": "Igor Shesterkin",
+                "first_name": "Igor",
+                "last_name": "Shesterkin",
+                "handedness": "L",
+                "position": "G",
+                "primary_position": "G",
+                "jersey_number": "31",
+                "captain": "N",
+                "starter": true,
+                "played": true,
+                "sr_id": "sr:player:884434",
+                "reference": "8478048",
+                "statistics": {
+                    "corsi_for": 48,
+                    "corsi_against": 43,
+                    "corsi_total": 5,
+                    "fenwick_for": 31,
+                    "fenwick_against": 30,
+                    "fenwick_total": 1,
+                    "on_ice_shots_for": 12,
+                    "on_ice_shots_against": 18,
+                    "average_shot_distance": 0.0,
+                    "on_ice_shots_pct": 0.4,
+                    "on_ice_shots_differential": -6,
+                    "corsi_pct": 0.527,
+                    "fenwick_pct": 0.508,
+                    "shots_by_type": [
+                        {
+                            "type": "wrist",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "slap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "backhand",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "tip",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "snap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "wrap_around",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "bat",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "cradle",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "poke",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "between_legs",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "defensive_deflection",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        }
+                    ],
+                    "starts_by_zone": {
+                        "offensive": 15,
+                        "offensive_pct": 32.6,
+                        "defensive": 14,
+                        "defensive_pct": 30.4,
+                        "neutral": 17,
+                        "neutral_pct": 37.0
+                    }
+                }
+            },
+            {
+                "id": "2d1e010f-8df5-46af-8fa7-e9cfd407ce52",
+                "full_name": "Matthew Robertson",
+                "first_name": "Matthew",
+                "last_name": "Robertson",
+                "handedness": "L",
+                "position": "D",
+                "primary_position": "D",
+                "jersey_number": "29",
+                "captain": "N",
+                "played": true,
+                "sr_id": "sr:player:1650189",
+                "reference": "8481525",
+                "statistics": {
+                    "corsi_for": 9,
+                    "corsi_against": 12,
+                    "corsi_total": -3,
+                    "fenwick_for": 5,
+                    "fenwick_against": 7,
+                    "fenwick_total": -2,
+                    "on_ice_shots_for": 1,
+                    "on_ice_shots_against": 4,
+                    "average_shot_distance": 0.0,
+                    "on_ice_shots_pct": 0.2,
+                    "on_ice_shots_differential": -3,
+                    "corsi_pct": 0.429,
+                    "fenwick_pct": 0.417,
+                    "shots_by_type": [
+                        {
+                            "type": "wrist",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "slap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "backhand",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "tip",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "snap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "wrap_around",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "bat",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "cradle",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "poke",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "between_legs",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "defensive_deflection",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        }
+                    ],
+                    "starts_by_zone": {
+                        "offensive_pct": 0.0,
+                        "defensive": 6,
+                        "defensive_pct": 85.7,
+                        "neutral": 1,
+                        "neutral_pct": 14.3
+                    }
+                }
+            },
+            {
+                "id": "fe31e395-d2d7-4cfa-8ea7-e63bfefc052f",
+                "full_name": "Juuso Parssinen",
+                "first_name": "Juuso",
+                "last_name": "Parssinen",
+                "handedness": "L",
+                "position": "F",
+                "primary_position": "C",
+                "jersey_number": "71",
+                "captain": "N",
+                "played": true,
+                "sr_id": "sr:player:1653171",
+                "reference": "8481704",
+                "statistics": {
+                    "corsi_for": 8,
+                    "corsi_against": 7,
+                    "corsi_total": 1,
+                    "fenwick_for": 6,
+                    "fenwick_against": 5,
+                    "fenwick_total": 1,
+                    "on_ice_shots_for": 3,
+                    "on_ice_shots_against": 1,
+                    "average_shot_distance": 33.0,
+                    "on_ice_shots_pct": 0.75,
+                    "on_ice_shots_differential": 2,
+                    "corsi_pct": 0.533,
+                    "fenwick_pct": 0.545,
+                    "shots_by_type": [
+                        {
+                            "type": "wrist",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "slap",
+                            "shots": 1,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "backhand",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "tip",
+                            "shots": 1,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "snap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "wrap_around",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "bat",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "cradle",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "poke",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "between_legs",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "defensive_deflection",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        }
+                    ],
+                    "starts_by_zone": {
+                        "offensive": 1,
+                        "offensive_pct": 33.3,
+                        "defensive": 1,
+                        "defensive_pct": 33.3,
+                        "neutral": 1,
+                        "neutral_pct": 33.3
+                    }
+                }
+            },
+            {
+                "id": "432cc764-0f24-11e2-8525-18a905767e44",
+                "full_name": "J.T. Miller",
+                "first_name": "J.T.",
+                "last_name": "Miller",
+                "handedness": "L",
+                "position": "F",
+                "primary_position": "LW",
+                "jersey_number": "8",
+                "captain": "C",
+                "starter": true,
+                "played": true,
+                "sr_id": "sr:player:311278",
+                "reference": "8476468",
+                "statistics": {
+                    "corsi_for": 17,
+                    "corsi_against": 19,
+                    "corsi_total": -2,
+                    "fenwick_for": 14,
+                    "fenwick_against": 13,
+                    "fenwick_total": 1,
+                    "on_ice_shots_for": 7,
+                    "on_ice_shots_against": 7,
+                    "average_shot_distance": 0.0,
+                    "on_ice_shots_pct": 0.5,
+                    "on_ice_shots_differential": 0,
+                    "corsi_pct": 0.472,
+                    "fenwick_pct": 0.519,
+                    "shots_by_type": [
+                        {
+                            "type": "wrist",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "slap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "backhand",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "tip",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "snap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "wrap_around",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "bat",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "cradle",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "poke",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "between_legs",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "defensive_deflection",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        }
+                    ],
+                    "starts_by_zone": {
+                        "offensive": 7,
+                        "offensive_pct": 35.0,
+                        "defensive": 4,
+                        "defensive_pct": 20.0,
+                        "neutral": 9,
+                        "neutral_pct": 45.0
+                    }
+                }
+            },
+            {
+                "id": "e198a0bf-fcb3-4638-8f7c-955a55532cbd",
+                "full_name": "Will Borgen",
+                "first_name": "Will",
+                "last_name": "Borgen",
+                "handedness": "R",
+                "position": "D",
+                "primary_position": "D",
+                "jersey_number": "17",
+                "captain": "N",
+                "played": true,
+                "sr_id": "sr:player:1215232",
+                "reference": "8478840",
+                "statistics": {
+                    "corsi_for": 11,
+                    "corsi_against": 14,
+                    "corsi_total": -3,
+                    "fenwick_for": 9,
+                    "fenwick_against": 9,
+                    "fenwick_total": 0,
+                    "on_ice_shots_for": 4,
+                    "on_ice_shots_against": 5,
+                    "average_shot_distance": 43.0,
+                    "on_ice_shots_pct": 0.444,
+                    "on_ice_shots_differential": -1,
+                    "corsi_pct": 0.44,
+                    "fenwick_pct": 0.5,
+                    "shots_by_type": [
+                        {
+                            "type": "wrist",
+                            "shots": 1,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "slap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "backhand",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "tip",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "snap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "wrap_around",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "bat",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "cradle",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "poke",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "between_legs",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "defensive_deflection",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        }
+                    ],
+                    "starts_by_zone": {
+                        "offensive": 2,
+                        "offensive_pct": 16.7,
+                        "defensive": 4,
+                        "defensive_pct": 33.3,
+                        "neutral": 6,
+                        "neutral_pct": 50.0
+                    }
+                }
+            },
+            {
+                "id": "9373ac04-4a51-4c5a-8c7f-98415c665d0a",
+                "full_name": "Carson Soucy",
+                "first_name": "Carson",
+                "last_name": "Soucy",
+                "handedness": "L",
+                "position": "D",
+                "primary_position": "D",
+                "jersey_number": "24",
+                "captain": "N",
+                "played": true,
+                "sr_id": "sr:player:1215166",
+                "reference": "8477369",
+                "statistics": {
+                    "corsi_for": 11,
+                    "corsi_against": 12,
+                    "corsi_total": -1,
+                    "fenwick_for": 8,
+                    "fenwick_against": 8,
+                    "fenwick_total": 0,
+                    "on_ice_shots_for": 4,
+                    "on_ice_shots_against": 5,
+                    "average_shot_distance": 0.0,
+                    "on_ice_shots_pct": 0.444,
+                    "on_ice_shots_differential": -1,
+                    "corsi_pct": 0.478,
+                    "fenwick_pct": 0.5,
+                    "shots_by_type": [
+                        {
+                            "type": "wrist",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "slap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "backhand",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "tip",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "snap",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "wrap_around",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "bat",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "cradle",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "poke",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "between_legs",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        },
+                        {
+                            "type": "defensive_deflection",
+                            "shots": 0,
+                            "goals": 0,
+                            "pct": 0.0
+                        }
+                    ],
+                    "starts_by_zone": {
+                        "offensive": 2,
+                        "offensive_pct": 16.7,
+                        "defensive": 3,
+                        "defensive_pct": 25.0,
+                        "neutral": 7,
+                        "neutral_pct": 58.3
+                    }
+                }
+            }
+        ]
+    }
+}

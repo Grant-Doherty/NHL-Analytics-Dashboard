@@ -1,0 +1,281 @@
+{
+
+
+  "_comment": "NHL Daily Schedule provides date, time, location, and other event details for every match-up taking place in the league defined day.",
+  "date": "2025-01-06",
+  "league": {
+    "id": "fd560107-a85b-4388-ab0d-655ad022aff7",
+    "name": "NHL",
+    "alias": "NHL"
+  },
+  "games": [
+    {
+      "id": "c5c337d7-c6cb-4c06-9fe7-1b7ec5dc714b",
+      "status": "closed",
+      "coverage": "full",
+      "scheduled": "2025-01-07T00:00:00Z",
+      "home_points": 4,
+      "away_points": 3,
+      "sr_id": "sr:match:51246995",
+      "reference": "20637",
+      "season": {
+        "id": "c5ca79d2-9e65-4987-84da-6f26237a47b3",
+        "year": 2024,
+        "type": "REG"
+      },
+      "time_zones": {
+        "venue": "US/Eastern",
+        "home": "US/Eastern",
+        "away": "US/Eastern"
+      },
+      "venue": {
+        "id": "bd7b42fa-19bb-4b91-8615-214ccc3ff987",
+        "name": "KeyBank Center",
+        "capacity": 19070,
+        "address": "1 Seymour H Knox III Plaza",
+        "city": "Buffalo",
+        "state": "NY",
+        "zip": "14203",
+        "country": "USA",
+        "time_zone": "US/Eastern",
+        "sr_id": "sr:venue:5950",
+        "location": {
+          "lat": "42.87502",
+          "lng": "-78.87654"
+        }
+      },
+      "broadcasts": [
+        {
+          "network": "NHL Network",
+          "type": "TV",
+          "locale": "National",
+          "channel": "215"
+        },
+        {
+          "network": "MSG-B",
+          "type": "TV",
+          "locale": "Home",
+          "channel": "635-1"
+        },
+        {
+          "network": "MNMT",
+          "type": "TV",
+          "locale": "Away",
+          "channel": "642"
+        }
+      ],
+      "home": {
+        "id": "4416d559-0f24-11e2-8525-18a905767e44",
+        "name": "Buffalo Sabres",
+        "alias": "BUF",
+        "sr_id": "sr:team:3678",
+        "reference": "7"
+      },
+      "away": {
+        "id": "4417eede-0f24-11e2-8525-18a905767e44",
+        "name": "Washington Capitals",
+        "alias": "WSH",
+        "sr_id": "sr:team:3691",
+        "reference": "15"
+      }
+    },
+    {
+      "id": "0e079ffb-2082-476c-b63e-1a290e7ae201",
+      "status": "closed",
+      "coverage": "full",
+      "scheduled": "2025-01-07T00:30:00Z",
+      "home_points": 5,
+      "away_points": 4,
+      "sr_id": "sr:match:51246997",
+      "reference": "20638",
+      "season": {
+        "id": "c5ca79d2-9e65-4987-84da-6f26237a47b3",
+        "year": 2024,
+        "type": "REG"
+      },
+      "time_zones": {
+        "venue": "US/Eastern",
+        "home": "US/Eastern",
+        "away": "US/Pacific"
+      },
+      "venue": {
+        "id": "2ee8c0bf-dfd1-480c-80df-4d5f66a9dc76",
+        "name": "Bell Centre",
+        "capacity": 21288,
+        "address": "1909 Avenue des Canadiens-de-Montreal",
+        "city": "Montreal",
+        "state": "QC",
+        "zip": "H3B 5E8",
+        "country": "CAN",
+        "time_zone": "US/Eastern",
+        "sr_id": "sr:venue:6034",
+        "location": {
+          "lat": "45.49604",
+          "lng": "-73.56937"
+        }
+      },
+      "broadcasts": [
+        {
+          "network": "ESPN+",
+          "type": "Internet",
+          "locale": "National"
+        }
+      ],
+      "home": {
+        "id": "441713b7-0f24-11e2-8525-18a905767e44",
+        "name": "Montreal Canadiens",
+        "alias": "MTL",
+        "sr_id": "sr:team:3690",
+        "reference": "8"
+      },
+      "away": {
+        "id": "4415b0a7-0f24-11e2-8525-18a905767e44",
+        "name": "Vancouver Canucks",
+        "alias": "VAN",
+        "sr_id": "sr:team:3692",
+        "reference": "23"
+      }
+    },
+    {
+      "id": "9a70caa1-f32c-41b3-9441-6c5af93a998a",
+      "status": "closed",
+      "coverage": "full",
+      "scheduled": "2025-01-07T02:00:00Z",
+      "home_points": 3,
+      "away_points": 1,
+      "sr_id": "sr:match:51246999",
+      "reference": "20639",
+      "season": {
+        "id": "c5ca79d2-9e65-4987-84da-6f26237a47b3",
+        "year": 2024,
+        "type": "REG"
+      },
+      "time_zones": {
+        "venue": "US/Mountain",
+        "home": "US/Mountain",
+        "away": "US/Eastern"
+      },
+      "venue": {
+        "id": "a75eea49-c384-4edb-99f1-d5252773ec83",
+        "name": "Ball Arena",
+        "capacity": 18007,
+        "address": "1000 Chopper Circle",
+        "city": "Denver",
+        "state": "CO",
+        "zip": "80204",
+        "country": "USA",
+        "time_zone": "US/Mountain",
+        "sr_id": "sr:venue:5976",
+        "location": {
+          "lat": "39.74867",
+          "lng": "-105.00772"
+        }
+      },
+      "broadcasts": [
+        {
+          "network": "ESPN+",
+          "type": "Internet",
+          "locale": "National"
+        },
+        {
+          "network": "SCRIPPS",
+          "type": "TV",
+          "locale": "Away"
+        },
+        {
+          "network": "ALT",
+          "type": "TV",
+          "locale": "Home",
+          "channel": "681"
+        }
+      ],
+      "home": {
+        "id": "4415ce44-0f24-11e2-8525-18a905767e44",
+        "name": "Colorado Avalanche",
+        "alias": "COL",
+        "sr_id": "sr:team:3682",
+        "reference": "21"
+      },
+      "away": {
+        "id": "4418464d-0f24-11e2-8525-18a905767e44",
+        "name": "Florida Panthers",
+        "alias": "FLA",
+        "sr_id": "sr:team:3687",
+        "reference": "13"
+      }
+    },
+    {
+      "id": "741ac7ce-00d4-4509-8c74-e146d0cda8b3",
+      "status": "closed",
+      "coverage": "full",
+      "scheduled": "2025-01-07T03:00:00Z",
+      "home_points": 2,
+      "away_points": 3,
+      "sr_id": "sr:match:51247001",
+      "reference": "20640",
+      "season": {
+        "id": "c5ca79d2-9e65-4987-84da-6f26237a47b3",
+        "year": 2024,
+        "type": "REG"
+      },
+      "time_zones": {
+        "venue": "US/Pacific",
+        "home": "US/Pacific",
+        "away": "US/Eastern"
+      },
+      "venue": {
+        "id": "b80b24e1-71ed-4497-b66d-5688e1663bf9",
+        "name": "Climate Pledge Arena",
+        "capacity": 17100,
+        "address": "334 1st Ave N",
+        "city": "Seattle",
+        "state": "WA",
+        "zip": "98109",
+        "country": "USA",
+        "time_zone": "US/Pacific",
+        "sr_id": "sr:venue:59362",
+        "location": {
+          "lat": "47.62205",
+          "lng": "-122.35395"
+        }
+      },
+      "broadcasts": [
+        {
+          "network": "ESPN+",
+          "type": "Internet",
+          "locale": "National"
+        },
+        {
+          "network": "MSGSN",
+          "type": "TV",
+          "locale": "Away",
+          "channel": "635"
+        },
+        {
+          "network": "KHN",
+          "type": "TV",
+          "locale": "Home"
+        },
+        {
+          "network": "KONG",
+          "type": "TV",
+          "locale": "Home"
+        }
+      ],
+      "home": {
+        "id": "1fb48e65-9688-4084-8868-02173525c3e1",
+        "name": "Seattle Kraken",
+        "alias": "SEA",
+        "sr_id": "sr:team:794340",
+        "reference": "55"
+      },
+      "away": {
+        "id": "44174b0c-0f24-11e2-8525-18a905767e44",
+        "name": "New Jersey Devils",
+        "alias": "NJ",
+        "sr_id": "sr:team:3704",
+        "reference": "1"
+      }
+    }
+  ]
+}

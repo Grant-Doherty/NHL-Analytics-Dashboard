@@ -1,0 +1,1 @@
+Logos to be displayed on the dashboard

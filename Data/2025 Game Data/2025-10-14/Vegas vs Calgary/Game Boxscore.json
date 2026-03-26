@@ -1,0 +1,2924 @@
+{
+    "id": "cfd0818c-a2c7-4d67-a7fe-b3d42ede3889",
+    "status": "closed",
+    "coverage": "full",
+    "scheduled": "2025-10-15T01:00:00+00:00",
+    "attendance": 16553,
+    "entry_mode": "INGEST",
+    "start_time": "2025-10-15T01:08:00+00:00",
+    "end_time": "2025-10-15T03:44:35+00:00",
+    "total_game_duration": "60:00",
+    "clock": "00:00",
+    "period": 3,
+    "sr_id": "sr:match:62071542",
+    "reference": "20053",
+    "clock_decimal": "00:00",
+    "broadcasts": [
+        {
+            "type": "Internet",
+            "locale": "National",
+            "network": "ESPN+"
+        },
+        {
+            "type": "TV",
+            "locale": "Away",
+            "network": "SCRIPPS"
+        }
+    ],
+    "season": {
+        "id": "4a67cca6-b450-45f9-91c6-48e92ac19069",
+        "year": 2025,
+        "type": "REG"
+    },
+    "time_zones": {
+        "venue": "US/Mountain",
+        "home": "US/Mountain",
+        "away": "US/Pacific"
+    },
+    "home": {
+        "id": "44159241-0f24-11e2-8525-18a905767e44",
+        "name": "Flames",
+        "market": "Calgary",
+        "points": 2,
+        "sr_id": "sr:team:3679",
+        "reference": "20",
+        "strength": "even",
+        "record": {
+            "wins": 1,
+            "losses": 3,
+            "overtime_losses": 0
+        },
+        "scoring": [
+            {
+                "number": 1,
+                "sequence": 1,
+                "points": 2,
+                "type": "period"
+            },
+            {
+                "number": 2,
+                "sequence": 2,
+                "points": 0,
+                "type": "period"
+            },
+            {
+                "number": 3,
+                "sequence": 3,
+                "points": 0,
+                "type": "period"
+            }
+        ],
+        "leaders": {
+            "points": [
+                {
+                    "id": "79bd3d77-ee47-47c0-91c4-e91ce674170c",
+                    "full_name": "MacKenzie Weegar",
+                    "first_name": "MacKenzie",
+                    "last_name": "Weegar",
+                    "handedness": "R",
+                    "position": "D",
+                    "primary_position": "D",
+                    "jersey_number": "52",
+                    "sr_id": "sr:player:352064",
+                    "reference": "8477346",
+                    "statistics": {
+                        "total": {
+                            "goals": 0,
+                            "assists": 1,
+                            "penalties": 1,
+                            "penalty_minutes": 2,
+                            "shots": 0,
+                            "blocked_att": 0,
+                            "missed_shots": 0,
+                            "hits": 2,
+                            "giveaways": 1,
+                            "takeaways": 1,
+                            "blocked_shots": 2,
+                            "faceoffs_won": 0,
+                            "faceoffs_lost": 0,
+                            "plus_minus": -1,
+                            "shooting_pct": 0.0,
+                            "faceoff_win_pct": 0.0,
+                            "faceoffs": 0,
+                            "points": 1,
+                            "emptynet_goals": 0,
+                            "first_star": 0,
+                            "overtime_assists": 0,
+                            "overtime_goals": 0,
+                            "overtime_shots": 0,
+                            "penalties_major": 0,
+                            "penalties_match": 0,
+                            "penalties_minor": 1,
+                            "penalty_minutes_additional": 0,
+                            "penalties_misconduct": 0,
+                            "second_star": 0,
+                            "third_star": 0
+                        },
+                        "powerplay": {
+                            "shots": 0,
+                            "goals": 0,
+                            "missed_shots": 0,
+                            "assists": 0,
+                            "faceoffs": 0,
+                            "faceoffs_won": 0,
+                            "faceoffs_lost": 0,
+                            "faceoff_win_pct": 0.0
+                        },
+                        "shorthanded": {
+                            "shots": 0,
+                            "goals": 0,
+                            "missed_shots": 0,
+                            "assists": 0,
+                            "faceoffs": 0,
+                            "faceoffs_won": 0,
+                            "faceoffs_lost": 0,
+                            "faceoff_win_pct": 0.0
+                        },
+                        "evenstrength": {
+                            "shots": 0,
+                            "goals": 0,
+                            "missed_shots": 0,
+                            "assists": 1,
+                            "faceoffs": 0,
+                            "faceoffs_won": 0,
+                            "faceoffs_lost": 0,
+                            "faceoff_win_pct": 0.0
+                        },
+                        "penalty": {
+                            "shots": 0,
+                            "goals": 0,
+                            "missed_shots": 0
+                        },
+                        "shootout": {
+                            "shots": 0,
+                            "goals": 0,
+                            "missed_shots": 0
+                        },
+                        "periods": [
+                            {
+                                "id": "522812d4-f902-4b88-8e3c-186ce315a24c",
+                                "number": 1,
+                                "sequence": 1,
+                                "type": "REG",
+                                "total": {
+                                    "assists": 1,
+                                    "blocked_att": 0,
+                                    "blocked_shots": 1,
+                                    "faceoff_win_pct": 0.0,
+                                    "faceoffs": 0,
+                                    "faceoffs_lost": 0,
+                                    "faceoffs_won": 0,
+                                    "giveaways": 0,
+                                    "goals": 0,
+                                    "hits": 1,
+                                    "missed_shots": 0,
+                                    "number_of_shifts": 12,
+                                    "penalties": 0,
+                                    "penalty_minutes": 0,
+                                    "penalty_minutes_additional": 0,
+                                    "points": 1,
+                                    "shooting_pct": 0.0,
+                                    "shots": 0,
+                                    "takeaways": 0
+                                },
+                                "powerplay": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "shorthanded": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "evenstrength": {
+                                    "assists": 1,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "penalty": {
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                }
+                            },
+                            {
+                                "id": "1b9d35ac-8453-4aa6-8e7c-7ae82faccf9e",
+                                "number": 2,
+                                "sequence": 2,
+                                "type": "REG",
+                                "total": {
+                                    "assists": 0,
+                                    "blocked_att": 0,
+                                    "blocked_shots": 0,
+                                    "faceoff_win_pct": 0.0,
+                                    "faceoffs": 0,
+                                    "faceoffs_lost": 0,
+                                    "faceoffs_won": 0,
+                                    "giveaways": 1,
+                                    "goals": 0,
+                                    "hits": 0,
+                                    "missed_shots": 0,
+                                    "number_of_shifts": 11,
+                                    "penalties": 0,
+                                    "penalty_minutes": 0,
+                                    "penalty_minutes_additional": 0,
+                                    "points": 0,
+                                    "shooting_pct": 0.0,
+                                    "shots": 0,
+                                    "takeaways": 0
+                                },
+                                "powerplay": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "shorthanded": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "evenstrength": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "penalty": {
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                }
+                            },
+                            {
+                                "id": "e0801893-5d5a-4617-a187-5f0396adf510",
+                                "number": 3,
+                                "sequence": 3,
+                                "type": "REG",
+                                "total": {
+                                    "assists": 0,
+                                    "blocked_att": 0,
+                                    "blocked_shots": 1,
+                                    "faceoff_win_pct": 0.0,
+                                    "faceoffs": 0,
+                                    "faceoffs_lost": 0,
+                                    "faceoffs_won": 0,
+                                    "giveaways": 0,
+                                    "goals": 0,
+                                    "hits": 1,
+                                    "missed_shots": 0,
+                                    "number_of_shifts": 11,
+                                    "penalties": 1,
+                                    "penalty_minutes": 2,
+                                    "penalty_minutes_additional": 0,
+                                    "points": 0,
+                                    "shooting_pct": 0.0,
+                                    "shots": 0,
+                                    "takeaways": 1
+                                },
+                                "powerplay": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "shorthanded": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "evenstrength": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "penalty": {
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                }
+                            }
+                        ]
+                    },
+                    "time_on_ice": {
+                        "shifts": 34,
+                        "powerplay": "00:43",
+                        "shorthanded": "1:29",
+                        "avg": "00:41",
+                        "evenstrength": "21:25",
+                        "total": "23:37"
+                    }
+                },
+                {
+                    "id": "d6bead91-24b6-4217-ad02-5a428a402b32",
+                    "full_name": "Blake Coleman",
+                    "first_name": "Blake",
+                    "last_name": "Coleman",
+                    "handedness": "L",
+                    "position": "F",
+                    "primary_position": "LW",
+                    "jersey_number": "20",
+                    "sr_id": "sr:player:854482",
+                    "reference": "8476399",
+                    "statistics": {
+                        "total": {
+                            "goals": 1,
+                            "assists": 0,
+                            "penalties": 0,
+                            "penalty_minutes": 0,
+                            "shots": 3,
+                            "blocked_att": 0,
+                            "missed_shots": 1,
+                            "hits": 2,
+                            "giveaways": 2,
+                            "takeaways": 1,
+                            "blocked_shots": 2,
+                            "faceoffs_won": 0,
+                            "faceoffs_lost": 0,
+                            "plus_minus": 1,
+                            "shooting_pct": 33.3,
+                            "faceoff_win_pct": 0.0,
+                            "faceoffs": 0,
+                            "points": 1,
+                            "emptynet_goals": 0,
+                            "first_star": 0,
+                            "overtime_assists": 0,
+                            "overtime_goals": 0,
+                            "overtime_shots": 0,
+                            "penalties_major": 0,
+                            "penalties_match": 0,
+                            "penalties_minor": 0,
+                            "penalty_minutes_additional": 0,
+                            "penalties_misconduct": 0,
+                            "second_star": 0,
+                            "third_star": 0
+                        },
+                        "powerplay": {
+                            "shots": 0,
+                            "goals": 0,
+                            "missed_shots": 0,
+                            "assists": 0,
+                            "faceoffs": 0,
+                            "faceoffs_won": 0,
+                            "faceoffs_lost": 0,
+                            "faceoff_win_pct": 0.0
+                        },
+                        "shorthanded": {
+                            "shots": 0,
+                            "goals": 0,
+                            "missed_shots": 0,
+                            "assists": 0,
+                            "faceoffs": 0,
+                            "faceoffs_won": 0,
+                            "faceoffs_lost": 0,
+                            "faceoff_win_pct": 0.0
+                        },
+                        "evenstrength": {
+                            "shots": 3,
+                            "goals": 1,
+                            "missed_shots": 1,
+                            "assists": 0,
+                            "faceoffs": 0,
+                            "faceoffs_won": 0,
+                            "faceoffs_lost": 0,
+                            "faceoff_win_pct": 0.0
+                        },
+                        "penalty": {
+                            "shots": 0,
+                            "goals": 0,
+                            "missed_shots": 0
+                        },
+                        "shootout": {
+                            "shots": 0,
+                            "goals": 0,
+                            "missed_shots": 0
+                        },
+                        "periods": [
+                            {
+                                "id": "522812d4-f902-4b88-8e3c-186ce315a24c",
+                                "number": 1,
+                                "sequence": 1,
+                                "type": "REG",
+                                "total": {
+                                    "assists": 0,
+                                    "blocked_att": 0,
+                                    "blocked_shots": 1,
+                                    "faceoff_win_pct": 0.0,
+                                    "faceoffs": 0,
+                                    "faceoffs_lost": 0,
+                                    "faceoffs_won": 0,
+                                    "giveaways": 1,
+                                    "goals": 1,
+                                    "hits": 0,
+                                    "missed_shots": 1,
+                                    "number_of_shifts": 7,
+                                    "penalties": 0,
+                                    "penalty_minutes": 0,
+                                    "penalty_minutes_additional": 0,
+                                    "points": 1,
+                                    "shooting_pct": 50.0,
+                                    "shots": 2,
+                                    "takeaways": 1
+                                },
+                                "powerplay": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "shorthanded": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "evenstrength": {
+                                    "assists": 0,
+                                    "goals": 1,
+                                    "missed_shots": 1,
+                                    "shots": 2
+                                },
+                                "penalty": {
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                }
+                            },
+                            {
+                                "id": "1b9d35ac-8453-4aa6-8e7c-7ae82faccf9e",
+                                "number": 2,
+                                "sequence": 2,
+                                "type": "REG",
+                                "total": {
+                                    "assists": 0,
+                                    "blocked_att": 0,
+                                    "blocked_shots": 1,
+                                    "faceoff_win_pct": 0.0,
+                                    "faceoffs": 0,
+                                    "faceoffs_lost": 0,
+                                    "faceoffs_won": 0,
+                                    "giveaways": 0,
+                                    "goals": 0,
+                                    "hits": 0,
+                                    "missed_shots": 0,
+                                    "number_of_shifts": 10,
+                                    "penalties": 0,
+                                    "penalty_minutes": 0,
+                                    "penalty_minutes_additional": 0,
+                                    "points": 0,
+                                    "shooting_pct": 0.0,
+                                    "shots": 1,
+                                    "takeaways": 0
+                                },
+                                "powerplay": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "shorthanded": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "evenstrength": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 1
+                                },
+                                "penalty": {
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                }
+                            },
+                            {
+                                "id": "e0801893-5d5a-4617-a187-5f0396adf510",
+                                "number": 3,
+                                "sequence": 3,
+                                "type": "REG",
+                                "total": {
+                                    "assists": 0,
+                                    "blocked_att": 0,
+                                    "blocked_shots": 0,
+                                    "faceoff_win_pct": 0.0,
+                                    "faceoffs": 0,
+                                    "faceoffs_lost": 0,
+                                    "faceoffs_won": 0,
+                                    "giveaways": 1,
+                                    "goals": 0,
+                                    "hits": 2,
+                                    "missed_shots": 0,
+                                    "number_of_shifts": 9,
+                                    "penalties": 0,
+                                    "penalty_minutes": 0,
+                                    "penalty_minutes_additional": 0,
+                                    "points": 0,
+                                    "shooting_pct": 0.0,
+                                    "shots": 0,
+                                    "takeaways": 0
+                                },
+                                "powerplay": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "shorthanded": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "evenstrength": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "penalty": {
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                }
+                            }
+                        ]
+                    },
+                    "time_on_ice": {
+                        "shifts": 26,
+                        "powerplay": "00:00",
+                        "shorthanded": "1:38",
+                        "avg": "00:38",
+                        "evenstrength": "15:11",
+                        "total": "16:49"
+                    }
+                },
+                {
+                    "id": "429a2e26-0f24-11e2-8525-18a905767e44",
+                    "full_name": "Mikael Backlund",
+                    "first_name": "Mikael",
+                    "last_name": "Backlund",
+                    "handedness": "L",
+                    "position": "F",
+                    "primary_position": "C",
+                    "jersey_number": "11",
+                    "sr_id": "sr:player:106592",
+                    "reference": "8474150",
+                    "statistics": {
+                        "total": {
+                            "goals": 1,
+                            "assists": 0,
+                            "penalties": 0,
+                            "penalty_minutes": 0,
+                            "shots": 3,
+                            "blocked_att": 1,
+                            "missed_shots": 3,
+                            "hits": 0,
+                            "giveaways": 0,
+                            "takeaways": 0,
+                            "blocked_shots": 1,
+                            "faceoffs_won": 8,
+                            "faceoffs_lost": 7,
+                            "plus_minus": 1,
+                            "shooting_pct": 33.3,
+                            "faceoff_win_pct": 53.3,
+                            "faceoffs": 15,
+                            "points": 1,
+                            "emptynet_goals": 0,
+                            "first_star": 0,
+                            "overtime_assists": 0,
+                            "overtime_goals": 0,
+                            "overtime_shots": 0,
+                            "penalties_major": 0,
+                            "penalties_match": 0,
+                            "penalties_minor": 0,
+                            "penalty_minutes_additional": 0,
+                            "penalties_misconduct": 0,
+                            "second_star": 1,
+                            "third_star": 0
+                        },
+                        "powerplay": {
+                            "shots": 0,
+                            "goals": 0,
+                            "missed_shots": 0,
+                            "assists": 0,
+                            "faceoffs": 0,
+                            "faceoffs_won": 0,
+                            "faceoffs_lost": 0,
+                            "faceoff_win_pct": 0.0
+                        },
+                        "shorthanded": {
+                            "shots": 0,
+                            "goals": 0,
+                            "missed_shots": 0,
+                            "assists": 0,
+                            "faceoffs": 1,
+                            "faceoffs_won": 1,
+                            "faceoffs_lost": 0,
+                            "faceoff_win_pct": 100.0
+                        },
+                        "evenstrength": {
+                            "shots": 3,
+                            "goals": 1,
+                            "missed_shots": 3,
+                            "assists": 0,
+                            "faceoffs": 14,
+                            "faceoffs_won": 7,
+                            "faceoffs_lost": 7,
+                            "faceoff_win_pct": 50.0
+                        },
+                        "penalty": {
+                            "shots": 0,
+                            "goals": 0,
+                            "missed_shots": 0
+                        },
+                        "shootout": {
+                            "shots": 0,
+                            "goals": 0,
+                            "missed_shots": 0
+                        },
+                        "periods": [
+                            {
+                                "id": "522812d4-f902-4b88-8e3c-186ce315a24c",
+                                "number": 1,
+                                "sequence": 1,
+                                "type": "REG",
+                                "total": {
+                                    "assists": 0,
+                                    "blocked_att": 0,
+                                    "blocked_shots": 0,
+                                    "faceoff_win_pct": 66.7,
+                                    "faceoffs": 3,
+                                    "faceoffs_lost": 1,
+                                    "faceoffs_won": 2,
+                                    "giveaways": 0,
+                                    "goals": 1,
+                                    "hits": 0,
+                                    "missed_shots": 1,
+                                    "number_of_shifts": 7,
+                                    "penalties": 0,
+                                    "penalty_minutes": 0,
+                                    "penalty_minutes_additional": 0,
+                                    "points": 1,
+                                    "shooting_pct": 100.0,
+                                    "shots": 1,
+                                    "takeaways": 0
+                                },
+                                "powerplay": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "shorthanded": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "evenstrength": {
+                                    "assists": 0,
+                                    "goals": 1,
+                                    "missed_shots": 1,
+                                    "shots": 1
+                                },
+                                "penalty": {
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                }
+                            },
+                            {
+                                "id": "1b9d35ac-8453-4aa6-8e7c-7ae82faccf9e",
+                                "number": 2,
+                                "sequence": 2,
+                                "type": "REG",
+                                "total": {
+                                    "assists": 0,
+                                    "blocked_att": 1,
+                                    "blocked_shots": 1,
+                                    "faceoff_win_pct": 44.4,
+                                    "faceoffs": 9,
+                                    "faceoffs_lost": 5,
+                                    "faceoffs_won": 4,
+                                    "giveaways": 0,
+                                    "goals": 0,
+                                    "hits": 0,
+                                    "missed_shots": 1,
+                                    "number_of_shifts": 11,
+                                    "penalties": 0,
+                                    "penalty_minutes": 0,
+                                    "penalty_minutes_additional": 0,
+                                    "points": 0,
+                                    "shooting_pct": 0.0,
+                                    "shots": 0,
+                                    "takeaways": 0
+                                },
+                                "powerplay": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "shorthanded": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "evenstrength": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 1,
+                                    "shots": 0
+                                },
+                                "penalty": {
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                }
+                            },
+                            {
+                                "id": "e0801893-5d5a-4617-a187-5f0396adf510",
+                                "number": 3,
+                                "sequence": 3,
+                                "type": "REG",
+                                "total": {
+                                    "assists": 0,
+                                    "blocked_att": 0,
+                                    "blocked_shots": 0,
+                                    "faceoff_win_pct": 66.7,
+                                    "faceoffs": 3,
+                                    "faceoffs_lost": 1,
+                                    "faceoffs_won": 2,
+                                    "giveaways": 0,
+                                    "goals": 0,
+                                    "hits": 0,
+                                    "missed_shots": 1,
+                                    "number_of_shifts": 8,
+                                    "penalties": 0,
+                                    "penalty_minutes": 0,
+                                    "penalty_minutes_additional": 0,
+                                    "points": 0,
+                                    "shooting_pct": 0.0,
+                                    "shots": 2,
+                                    "takeaways": 0
+                                },
+                                "powerplay": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "shorthanded": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "evenstrength": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 1,
+                                    "shots": 2
+                                },
+                                "penalty": {
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                }
+                            }
+                        ]
+                    },
+                    "time_on_ice": {
+                        "shifts": 26,
+                        "powerplay": "00:00",
+                        "shorthanded": "1:29",
+                        "avg": "00:35",
+                        "evenstrength": "13:56",
+                        "total": "15:25"
+                    }
+                }
+            ],
+            "goals": [
+                {
+                    "id": "d6bead91-24b6-4217-ad02-5a428a402b32",
+                    "full_name": "Blake Coleman",
+                    "first_name": "Blake",
+                    "last_name": "Coleman",
+                    "handedness": "L",
+                    "position": "F",
+                    "primary_position": "LW",
+                    "jersey_number": "20",
+                    "sr_id": "sr:player:854482",
+                    "reference": "8476399",
+                    "statistics": {
+                        "total": {
+                            "goals": 1,
+                            "assists": 0,
+                            "penalties": 0,
+                            "penalty_minutes": 0,
+                            "shots": 3,
+                            "blocked_att": 0,
+                            "missed_shots": 1,
+                            "hits": 2,
+                            "giveaways": 2,
+                            "takeaways": 1,
+                            "blocked_shots": 2,
+                            "faceoffs_won": 0,
+                            "faceoffs_lost": 0,
+                            "plus_minus": 1,
+                            "shooting_pct": 33.3,
+                            "faceoff_win_pct": 0.0,
+                            "faceoffs": 0,
+                            "points": 1,
+                            "emptynet_goals": 0,
+                            "first_star": 0,
+                            "overtime_assists": 0,
+                            "overtime_goals": 0,
+                            "overtime_shots": 0,
+                            "penalties_major": 0,
+                            "penalties_match": 0,
+                            "penalties_minor": 0,
+                            "penalty_minutes_additional": 0,
+                            "penalties_misconduct": 0,
+                            "second_star": 0,
+                            "third_star": 0
+                        },
+                        "powerplay": {
+                            "shots": 0,
+                            "goals": 0,
+                            "missed_shots": 0,
+                            "assists": 0,
+                            "faceoffs": 0,
+                            "faceoffs_won": 0,
+                            "faceoffs_lost": 0,
+                            "faceoff_win_pct": 0.0
+                        },
+                        "shorthanded": {
+                            "shots": 0,
+                            "goals": 0,
+                            "missed_shots": 0,
+                            "assists": 0,
+                            "faceoffs": 0,
+                            "faceoffs_won": 0,
+                            "faceoffs_lost": 0,
+                            "faceoff_win_pct": 0.0
+                        },
+                        "evenstrength": {
+                            "shots": 3,
+                            "goals": 1,
+                            "missed_shots": 1,
+                            "assists": 0,
+                            "faceoffs": 0,
+                            "faceoffs_won": 0,
+                            "faceoffs_lost": 0,
+                            "faceoff_win_pct": 0.0
+                        },
+                        "penalty": {
+                            "shots": 0,
+                            "goals": 0,
+                            "missed_shots": 0
+                        },
+                        "shootout": {
+                            "shots": 0,
+                            "goals": 0,
+                            "missed_shots": 0
+                        },
+                        "periods": [
+                            {
+                                "id": "522812d4-f902-4b88-8e3c-186ce315a24c",
+                                "number": 1,
+                                "sequence": 1,
+                                "type": "REG",
+                                "total": {
+                                    "assists": 0,
+                                    "blocked_att": 0,
+                                    "blocked_shots": 1,
+                                    "faceoff_win_pct": 0.0,
+                                    "faceoffs": 0,
+                                    "faceoffs_lost": 0,
+                                    "faceoffs_won": 0,
+                                    "giveaways": 1,
+                                    "goals": 1,
+                                    "hits": 0,
+                                    "missed_shots": 1,
+                                    "number_of_shifts": 7,
+                                    "penalties": 0,
+                                    "penalty_minutes": 0,
+                                    "penalty_minutes_additional": 0,
+                                    "points": 1,
+                                    "shooting_pct": 50.0,
+                                    "shots": 2,
+                                    "takeaways": 1
+                                },
+                                "powerplay": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "shorthanded": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "evenstrength": {
+                                    "assists": 0,
+                                    "goals": 1,
+                                    "missed_shots": 1,
+                                    "shots": 2
+                                },
+                                "penalty": {
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                }
+                            },
+                            {
+                                "id": "1b9d35ac-8453-4aa6-8e7c-7ae82faccf9e",
+                                "number": 2,
+                                "sequence": 2,
+                                "type": "REG",
+                                "total": {
+                                    "assists": 0,
+                                    "blocked_att": 0,
+                                    "blocked_shots": 1,
+                                    "faceoff_win_pct": 0.0,
+                                    "faceoffs": 0,
+                                    "faceoffs_lost": 0,
+                                    "faceoffs_won": 0,
+                                    "giveaways": 0,
+                                    "goals": 0,
+                                    "hits": 0,
+                                    "missed_shots": 0,
+                                    "number_of_shifts": 10,
+                                    "penalties": 0,
+                                    "penalty_minutes": 0,
+                                    "penalty_minutes_additional": 0,
+                                    "points": 0,
+                                    "shooting_pct": 0.0,
+                                    "shots": 1,
+                                    "takeaways": 0
+                                },
+                                "powerplay": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "shorthanded": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "evenstrength": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 1
+                                },
+                                "penalty": {
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                }
+                            },
+                            {
+                                "id": "e0801893-5d5a-4617-a187-5f0396adf510",
+                                "number": 3,
+                                "sequence": 3,
+                                "type": "REG",
+                                "total": {
+                                    "assists": 0,
+                                    "blocked_att": 0,
+                                    "blocked_shots": 0,
+                                    "faceoff_win_pct": 0.0,
+                                    "faceoffs": 0,
+                                    "faceoffs_lost": 0,
+                                    "faceoffs_won": 0,
+                                    "giveaways": 1,
+                                    "goals": 0,
+                                    "hits": 2,
+                                    "missed_shots": 0,
+                                    "number_of_shifts": 9,
+                                    "penalties": 0,
+                                    "penalty_minutes": 0,
+                                    "penalty_minutes_additional": 0,
+                                    "points": 0,
+                                    "shooting_pct": 0.0,
+                                    "shots": 0,
+                                    "takeaways": 0
+                                },
+                                "powerplay": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "shorthanded": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "evenstrength": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "penalty": {
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                }
+                            }
+                        ]
+                    },
+                    "time_on_ice": {
+                        "shifts": 26,
+                        "powerplay": "00:00",
+                        "shorthanded": "1:38",
+                        "avg": "00:38",
+                        "evenstrength": "15:11",
+                        "total": "16:49"
+                    }
+                },
+                {
+                    "id": "429a2e26-0f24-11e2-8525-18a905767e44",
+                    "full_name": "Mikael Backlund",
+                    "first_name": "Mikael",
+                    "last_name": "Backlund",
+                    "handedness": "L",
+                    "position": "F",
+                    "primary_position": "C",
+                    "jersey_number": "11",
+                    "sr_id": "sr:player:106592",
+                    "reference": "8474150",
+                    "statistics": {
+                        "total": {
+                            "goals": 1,
+                            "assists": 0,
+                            "penalties": 0,
+                            "penalty_minutes": 0,
+                            "shots": 3,
+                            "blocked_att": 1,
+                            "missed_shots": 3,
+                            "hits": 0,
+                            "giveaways": 0,
+                            "takeaways": 0,
+                            "blocked_shots": 1,
+                            "faceoffs_won": 8,
+                            "faceoffs_lost": 7,
+                            "plus_minus": 1,
+                            "shooting_pct": 33.3,
+                            "faceoff_win_pct": 53.3,
+                            "faceoffs": 15,
+                            "points": 1,
+                            "emptynet_goals": 0,
+                            "first_star": 0,
+                            "overtime_assists": 0,
+                            "overtime_goals": 0,
+                            "overtime_shots": 0,
+                            "penalties_major": 0,
+                            "penalties_match": 0,
+                            "penalties_minor": 0,
+                            "penalty_minutes_additional": 0,
+                            "penalties_misconduct": 0,
+                            "second_star": 1,
+                            "third_star": 0
+                        },
+                        "powerplay": {
+                            "shots": 0,
+                            "goals": 0,
+                            "missed_shots": 0,
+                            "assists": 0,
+                            "faceoffs": 0,
+                            "faceoffs_won": 0,
+                            "faceoffs_lost": 0,
+                            "faceoff_win_pct": 0.0
+                        },
+                        "shorthanded": {
+                            "shots": 0,
+                            "goals": 0,
+                            "missed_shots": 0,
+                            "assists": 0,
+                            "faceoffs": 1,
+                            "faceoffs_won": 1,
+                            "faceoffs_lost": 0,
+                            "faceoff_win_pct": 100.0
+                        },
+                        "evenstrength": {
+                            "shots": 3,
+                            "goals": 1,
+                            "missed_shots": 3,
+                            "assists": 0,
+                            "faceoffs": 14,
+                            "faceoffs_won": 7,
+                            "faceoffs_lost": 7,
+                            "faceoff_win_pct": 50.0
+                        },
+                        "penalty": {
+                            "shots": 0,
+                            "goals": 0,
+                            "missed_shots": 0
+                        },
+                        "shootout": {
+                            "shots": 0,
+                            "goals": 0,
+                            "missed_shots": 0
+                        },
+                        "periods": [
+                            {
+                                "id": "522812d4-f902-4b88-8e3c-186ce315a24c",
+                                "number": 1,
+                                "sequence": 1,
+                                "type": "REG",
+                                "total": {
+                                    "assists": 0,
+                                    "blocked_att": 0,
+                                    "blocked_shots": 0,
+                                    "faceoff_win_pct": 66.7,
+                                    "faceoffs": 3,
+                                    "faceoffs_lost": 1,
+                                    "faceoffs_won": 2,
+                                    "giveaways": 0,
+                                    "goals": 1,
+                                    "hits": 0,
+                                    "missed_shots": 1,
+                                    "number_of_shifts": 7,
+                                    "penalties": 0,
+                                    "penalty_minutes": 0,
+                                    "penalty_minutes_additional": 0,
+                                    "points": 1,
+                                    "shooting_pct": 100.0,
+                                    "shots": 1,
+                                    "takeaways": 0
+                                },
+                                "powerplay": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "shorthanded": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "evenstrength": {
+                                    "assists": 0,
+                                    "goals": 1,
+                                    "missed_shots": 1,
+                                    "shots": 1
+                                },
+                                "penalty": {
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                }
+                            },
+                            {
+                                "id": "1b9d35ac-8453-4aa6-8e7c-7ae82faccf9e",
+                                "number": 2,
+                                "sequence": 2,
+                                "type": "REG",
+                                "total": {
+                                    "assists": 0,
+                                    "blocked_att": 1,
+                                    "blocked_shots": 1,
+                                    "faceoff_win_pct": 44.4,
+                                    "faceoffs": 9,
+                                    "faceoffs_lost": 5,
+                                    "faceoffs_won": 4,
+                                    "giveaways": 0,
+                                    "goals": 0,
+                                    "hits": 0,
+                                    "missed_shots": 1,
+                                    "number_of_shifts": 11,
+                                    "penalties": 0,
+                                    "penalty_minutes": 0,
+                                    "penalty_minutes_additional": 0,
+                                    "points": 0,
+                                    "shooting_pct": 0.0,
+                                    "shots": 0,
+                                    "takeaways": 0
+                                },
+                                "powerplay": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "shorthanded": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "evenstrength": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 1,
+                                    "shots": 0
+                                },
+                                "penalty": {
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                }
+                            },
+                            {
+                                "id": "e0801893-5d5a-4617-a187-5f0396adf510",
+                                "number": 3,
+                                "sequence": 3,
+                                "type": "REG",
+                                "total": {
+                                    "assists": 0,
+                                    "blocked_att": 0,
+                                    "blocked_shots": 0,
+                                    "faceoff_win_pct": 66.7,
+                                    "faceoffs": 3,
+                                    "faceoffs_lost": 1,
+                                    "faceoffs_won": 2,
+                                    "giveaways": 0,
+                                    "goals": 0,
+                                    "hits": 0,
+                                    "missed_shots": 1,
+                                    "number_of_shifts": 8,
+                                    "penalties": 0,
+                                    "penalty_minutes": 0,
+                                    "penalty_minutes_additional": 0,
+                                    "points": 0,
+                                    "shooting_pct": 0.0,
+                                    "shots": 2,
+                                    "takeaways": 0
+                                },
+                                "powerplay": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "shorthanded": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "evenstrength": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 1,
+                                    "shots": 2
+                                },
+                                "penalty": {
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                }
+                            }
+                        ]
+                    },
+                    "time_on_ice": {
+                        "shifts": 26,
+                        "powerplay": "00:00",
+                        "shorthanded": "1:29",
+                        "avg": "00:35",
+                        "evenstrength": "13:56",
+                        "total": "15:25"
+                    }
+                }
+            ],
+            "assists": [
+                {
+                    "id": "79bd3d77-ee47-47c0-91c4-e91ce674170c",
+                    "full_name": "MacKenzie Weegar",
+                    "first_name": "MacKenzie",
+                    "last_name": "Weegar",
+                    "handedness": "R",
+                    "position": "D",
+                    "primary_position": "D",
+                    "jersey_number": "52",
+                    "sr_id": "sr:player:352064",
+                    "reference": "8477346",
+                    "statistics": {
+                        "total": {
+                            "goals": 0,
+                            "assists": 1,
+                            "penalties": 1,
+                            "penalty_minutes": 2,
+                            "shots": 0,
+                            "blocked_att": 0,
+                            "missed_shots": 0,
+                            "hits": 2,
+                            "giveaways": 1,
+                            "takeaways": 1,
+                            "blocked_shots": 2,
+                            "faceoffs_won": 0,
+                            "faceoffs_lost": 0,
+                            "plus_minus": -1,
+                            "shooting_pct": 0.0,
+                            "faceoff_win_pct": 0.0,
+                            "faceoffs": 0,
+                            "points": 1,
+                            "emptynet_goals": 0,
+                            "first_star": 0,
+                            "overtime_assists": 0,
+                            "overtime_goals": 0,
+                            "overtime_shots": 0,
+                            "penalties_major": 0,
+                            "penalties_match": 0,
+                            "penalties_minor": 1,
+                            "penalty_minutes_additional": 0,
+                            "penalties_misconduct": 0,
+                            "second_star": 0,
+                            "third_star": 0
+                        },
+                        "powerplay": {
+                            "shots": 0,
+                            "goals": 0,
+                            "missed_shots": 0,
+                            "assists": 0,
+                            "faceoffs": 0,
+                            "faceoffs_won": 0,
+                            "faceoffs_lost": 0,
+                            "faceoff_win_pct": 0.0
+                        },
+                        "shorthanded": {
+                            "shots": 0,
+                            "goals": 0,
+                            "missed_shots": 0,
+                            "assists": 0,
+                            "faceoffs": 0,
+                            "faceoffs_won": 0,
+                            "faceoffs_lost": 0,
+                            "faceoff_win_pct": 0.0
+                        },
+                        "evenstrength": {
+                            "shots": 0,
+                            "goals": 0,
+                            "missed_shots": 0,
+                            "assists": 1,
+                            "faceoffs": 0,
+                            "faceoffs_won": 0,
+                            "faceoffs_lost": 0,
+                            "faceoff_win_pct": 0.0
+                        },
+                        "penalty": {
+                            "shots": 0,
+                            "goals": 0,
+                            "missed_shots": 0
+                        },
+                        "shootout": {
+                            "shots": 0,
+                            "goals": 0,
+                            "missed_shots": 0
+                        },
+                        "periods": [
+                            {
+                                "id": "522812d4-f902-4b88-8e3c-186ce315a24c",
+                                "number": 1,
+                                "sequence": 1,
+                                "type": "REG",
+                                "total": {
+                                    "assists": 1,
+                                    "blocked_att": 0,
+                                    "blocked_shots": 1,
+                                    "faceoff_win_pct": 0.0,
+                                    "faceoffs": 0,
+                                    "faceoffs_lost": 0,
+                                    "faceoffs_won": 0,
+                                    "giveaways": 0,
+                                    "goals": 0,
+                                    "hits": 1,
+                                    "missed_shots": 0,
+                                    "number_of_shifts": 12,
+                                    "penalties": 0,
+                                    "penalty_minutes": 0,
+                                    "penalty_minutes_additional": 0,
+                                    "points": 1,
+                                    "shooting_pct": 0.0,
+                                    "shots": 0,
+                                    "takeaways": 0
+                                },
+                                "powerplay": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "shorthanded": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "evenstrength": {
+                                    "assists": 1,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "penalty": {
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                }
+                            },
+                            {
+                                "id": "1b9d35ac-8453-4aa6-8e7c-7ae82faccf9e",
+                                "number": 2,
+                                "sequence": 2,
+                                "type": "REG",
+                                "total": {
+                                    "assists": 0,
+                                    "blocked_att": 0,
+                                    "blocked_shots": 0,
+                                    "faceoff_win_pct": 0.0,
+                                    "faceoffs": 0,
+                                    "faceoffs_lost": 0,
+                                    "faceoffs_won": 0,
+                                    "giveaways": 1,
+                                    "goals": 0,
+                                    "hits": 0,
+                                    "missed_shots": 0,
+                                    "number_of_shifts": 11,
+                                    "penalties": 0,
+                                    "penalty_minutes": 0,
+                                    "penalty_minutes_additional": 0,
+                                    "points": 0,
+                                    "shooting_pct": 0.0,
+                                    "shots": 0,
+                                    "takeaways": 0
+                                },
+                                "powerplay": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "shorthanded": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "evenstrength": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "penalty": {
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                }
+                            },
+                            {
+                                "id": "e0801893-5d5a-4617-a187-5f0396adf510",
+                                "number": 3,
+                                "sequence": 3,
+                                "type": "REG",
+                                "total": {
+                                    "assists": 0,
+                                    "blocked_att": 0,
+                                    "blocked_shots": 1,
+                                    "faceoff_win_pct": 0.0,
+                                    "faceoffs": 0,
+                                    "faceoffs_lost": 0,
+                                    "faceoffs_won": 0,
+                                    "giveaways": 0,
+                                    "goals": 0,
+                                    "hits": 1,
+                                    "missed_shots": 0,
+                                    "number_of_shifts": 11,
+                                    "penalties": 1,
+                                    "penalty_minutes": 2,
+                                    "penalty_minutes_additional": 0,
+                                    "points": 0,
+                                    "shooting_pct": 0.0,
+                                    "shots": 0,
+                                    "takeaways": 1
+                                },
+                                "powerplay": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "shorthanded": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "evenstrength": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "penalty": {
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                }
+                            }
+                        ]
+                    },
+                    "time_on_ice": {
+                        "shifts": 34,
+                        "powerplay": "00:43",
+                        "shorthanded": "1:29",
+                        "avg": "00:41",
+                        "evenstrength": "21:25",
+                        "total": "23:37"
+                    }
+                }
+            ]
+        }
+    },
+    "away": {
+        "id": "42376e1c-6da8-461e-9443-cfcf0a9fcc4d",
+        "name": "Golden Knights",
+        "market": "Vegas",
+        "points": 4,
+        "sr_id": "sr:team:344158",
+        "reference": "54",
+        "strength": "even",
+        "record": {
+            "wins": 2,
+            "losses": 0,
+            "overtime_losses": 2
+        },
+        "scoring": [
+            {
+                "number": 1,
+                "sequence": 1,
+                "points": 0,
+                "type": "period"
+            },
+            {
+                "number": 2,
+                "sequence": 2,
+                "points": 1,
+                "type": "period"
+            },
+            {
+                "number": 3,
+                "sequence": 3,
+                "points": 3,
+                "type": "period"
+            }
+        ],
+        "leaders": {
+            "points": [
+                {
+                    "id": "64669a46-a90a-4d58-a759-87e5d0591515",
+                    "full_name": "Tomas Hertl",
+                    "first_name": "Tomas",
+                    "last_name": "Hertl",
+                    "handedness": "L",
+                    "position": "F",
+                    "primary_position": "C",
+                    "jersey_number": "48",
+                    "sr_id": "sr:player:179667",
+                    "reference": "8476881",
+                    "statistics": {
+                        "total": {
+                            "goals": 1,
+                            "assists": 1,
+                            "penalties": 0,
+                            "penalty_minutes": 0,
+                            "shots": 2,
+                            "blocked_att": 4,
+                            "missed_shots": 3,
+                            "hits": 1,
+                            "giveaways": 1,
+                            "takeaways": 0,
+                            "blocked_shots": 1,
+                            "faceoffs_won": 12,
+                            "faceoffs_lost": 10,
+                            "plus_minus": 2,
+                            "shooting_pct": 50.0,
+                            "faceoff_win_pct": 54.5,
+                            "faceoffs": 22,
+                            "points": 2,
+                            "emptynet_goals": 1,
+                            "first_star": 0,
+                            "overtime_assists": 0,
+                            "overtime_goals": 0,
+                            "overtime_shots": 0,
+                            "penalties_major": 0,
+                            "penalties_match": 0,
+                            "penalties_minor": 0,
+                            "penalty_minutes_additional": 0,
+                            "penalties_misconduct": 0,
+                            "second_star": 0,
+                            "third_star": 0
+                        },
+                        "powerplay": {
+                            "shots": 0,
+                            "goals": 0,
+                            "missed_shots": 0,
+                            "assists": 0,
+                            "faceoffs": 1,
+                            "faceoffs_won": 0,
+                            "faceoffs_lost": 1,
+                            "faceoff_win_pct": 0.0
+                        },
+                        "shorthanded": {
+                            "shots": 0,
+                            "goals": 0,
+                            "missed_shots": 0,
+                            "assists": 0,
+                            "faceoffs": 0,
+                            "faceoffs_won": 0,
+                            "faceoffs_lost": 0,
+                            "faceoff_win_pct": 0.0
+                        },
+                        "evenstrength": {
+                            "shots": 2,
+                            "goals": 1,
+                            "missed_shots": 3,
+                            "assists": 1,
+                            "faceoffs": 21,
+                            "faceoffs_won": 12,
+                            "faceoffs_lost": 9,
+                            "faceoff_win_pct": 57.1
+                        },
+                        "penalty": {
+                            "shots": 0,
+                            "goals": 0,
+                            "missed_shots": 0
+                        },
+                        "shootout": {
+                            "shots": 0,
+                            "goals": 0,
+                            "missed_shots": 0
+                        },
+                        "periods": [
+                            {
+                                "id": "522812d4-f902-4b88-8e3c-186ce315a24c",
+                                "number": 1,
+                                "sequence": 1,
+                                "type": "REG",
+                                "total": {
+                                    "assists": 0,
+                                    "blocked_att": 1,
+                                    "blocked_shots": 1,
+                                    "faceoff_win_pct": 37.5,
+                                    "faceoffs": 8,
+                                    "faceoffs_lost": 5,
+                                    "faceoffs_won": 3,
+                                    "giveaways": 1,
+                                    "goals": 0,
+                                    "hits": 1,
+                                    "missed_shots": 0,
+                                    "number_of_shifts": 7,
+                                    "penalties": 0,
+                                    "penalty_minutes": 0,
+                                    "penalty_minutes_additional": 0,
+                                    "points": 0,
+                                    "shooting_pct": 0.0,
+                                    "shots": 1,
+                                    "takeaways": 0
+                                },
+                                "powerplay": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "shorthanded": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "evenstrength": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 1
+                                },
+                                "penalty": {
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                }
+                            },
+                            {
+                                "id": "1b9d35ac-8453-4aa6-8e7c-7ae82faccf9e",
+                                "number": 2,
+                                "sequence": 2,
+                                "type": "REG",
+                                "total": {
+                                    "assists": 0,
+                                    "blocked_att": 2,
+                                    "blocked_shots": 0,
+                                    "faceoff_win_pct": 50.0,
+                                    "faceoffs": 6,
+                                    "faceoffs_lost": 3,
+                                    "faceoffs_won": 3,
+                                    "giveaways": 0,
+                                    "goals": 0,
+                                    "hits": 0,
+                                    "missed_shots": 3,
+                                    "number_of_shifts": 7,
+                                    "penalties": 0,
+                                    "penalty_minutes": 0,
+                                    "penalty_minutes_additional": 0,
+                                    "points": 0,
+                                    "shooting_pct": 0.0,
+                                    "shots": 0,
+                                    "takeaways": 0
+                                },
+                                "powerplay": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "shorthanded": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "evenstrength": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 3,
+                                    "shots": 0
+                                },
+                                "penalty": {
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                }
+                            },
+                            {
+                                "id": "e0801893-5d5a-4617-a187-5f0396adf510",
+                                "number": 3,
+                                "sequence": 3,
+                                "type": "REG",
+                                "total": {
+                                    "assists": 1,
+                                    "blocked_att": 1,
+                                    "blocked_shots": 0,
+                                    "faceoff_win_pct": 75.0,
+                                    "faceoffs": 8,
+                                    "faceoffs_lost": 2,
+                                    "faceoffs_won": 6,
+                                    "giveaways": 0,
+                                    "goals": 1,
+                                    "hits": 0,
+                                    "missed_shots": 0,
+                                    "number_of_shifts": 7,
+                                    "penalties": 0,
+                                    "penalty_minutes": 0,
+                                    "penalty_minutes_additional": 0,
+                                    "points": 2,
+                                    "shooting_pct": 100.0,
+                                    "shots": 1,
+                                    "takeaways": 0
+                                },
+                                "powerplay": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "shorthanded": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "evenstrength": {
+                                    "assists": 1,
+                                    "goals": 1,
+                                    "missed_shots": 0,
+                                    "shots": 1
+                                },
+                                "penalty": {
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                }
+                            }
+                        ]
+                    },
+                    "time_on_ice": {
+                        "shifts": 21,
+                        "powerplay": "2:01",
+                        "shorthanded": "00:00",
+                        "avg": "00:52",
+                        "evenstrength": "16:30",
+                        "total": "18:31"
+                    }
+                },
+                {
+                    "id": "b6469001-5c10-494a-a27c-44765044e016",
+                    "full_name": "Mitch Marner",
+                    "first_name": "Mitch",
+                    "last_name": "Marner",
+                    "handedness": "R",
+                    "position": "F",
+                    "primary_position": "RW",
+                    "jersey_number": "93",
+                    "sr_id": "sr:player:852982",
+                    "reference": "8478483",
+                    "statistics": {
+                        "total": {
+                            "goals": 0,
+                            "assists": 2,
+                            "penalties": 0,
+                            "penalty_minutes": 0,
+                            "shots": 4,
+                            "blocked_att": 1,
+                            "missed_shots": 2,
+                            "hits": 1,
+                            "giveaways": 0,
+                            "takeaways": 0,
+                            "blocked_shots": 0,
+                            "faceoffs_won": 0,
+                            "faceoffs_lost": 0,
+                            "plus_minus": 2,
+                            "shooting_pct": 0.0,
+                            "faceoff_win_pct": 0.0,
+                            "faceoffs": 0,
+                            "points": 2,
+                            "emptynet_goals": 0,
+                            "first_star": 0,
+                            "overtime_assists": 0,
+                            "overtime_goals": 0,
+                            "overtime_shots": 0,
+                            "penalties_major": 0,
+                            "penalties_match": 0,
+                            "penalties_minor": 0,
+                            "penalty_minutes_additional": 0,
+                            "penalties_misconduct": 0,
+                            "second_star": 0,
+                            "third_star": 0
+                        },
+                        "powerplay": {
+                            "shots": 2,
+                            "goals": 0,
+                            "missed_shots": 0,
+                            "assists": 0,
+                            "faceoffs": 0,
+                            "faceoffs_won": 0,
+                            "faceoffs_lost": 0,
+                            "faceoff_win_pct": 0.0
+                        },
+                        "shorthanded": {
+                            "shots": 0,
+                            "goals": 0,
+                            "missed_shots": 0,
+                            "assists": 0,
+                            "faceoffs": 0,
+                            "faceoffs_won": 0,
+                            "faceoffs_lost": 0,
+                            "faceoff_win_pct": 0.0
+                        },
+                        "evenstrength": {
+                            "shots": 2,
+                            "goals": 0,
+                            "missed_shots": 2,
+                            "assists": 2,
+                            "faceoffs": 0,
+                            "faceoffs_won": 0,
+                            "faceoffs_lost": 0,
+                            "faceoff_win_pct": 0.0
+                        },
+                        "penalty": {
+                            "shots": 0,
+                            "goals": 0,
+                            "missed_shots": 0
+                        },
+                        "shootout": {
+                            "shots": 0,
+                            "goals": 0,
+                            "missed_shots": 0
+                        },
+                        "periods": [
+                            {
+                                "id": "522812d4-f902-4b88-8e3c-186ce315a24c",
+                                "number": 1,
+                                "sequence": 1,
+                                "type": "REG",
+                                "total": {
+                                    "assists": 0,
+                                    "blocked_att": 0,
+                                    "blocked_shots": 0,
+                                    "faceoff_win_pct": 0.0,
+                                    "faceoffs": 0,
+                                    "faceoffs_lost": 0,
+                                    "faceoffs_won": 0,
+                                    "giveaways": 0,
+                                    "goals": 0,
+                                    "hits": 0,
+                                    "missed_shots": 1,
+                                    "number_of_shifts": 7,
+                                    "penalties": 0,
+                                    "penalty_minutes": 0,
+                                    "penalty_minutes_additional": 0,
+                                    "points": 0,
+                                    "shooting_pct": 0.0,
+                                    "shots": 2,
+                                    "takeaways": 0
+                                },
+                                "powerplay": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "shorthanded": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "evenstrength": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 1,
+                                    "shots": 2
+                                },
+                                "penalty": {
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                }
+                            },
+                            {
+                                "id": "1b9d35ac-8453-4aa6-8e7c-7ae82faccf9e",
+                                "number": 2,
+                                "sequence": 2,
+                                "type": "REG",
+                                "total": {
+                                    "assists": 0,
+                                    "blocked_att": 0,
+                                    "blocked_shots": 0,
+                                    "faceoff_win_pct": 0.0,
+                                    "faceoffs": 0,
+                                    "faceoffs_lost": 0,
+                                    "faceoffs_won": 0,
+                                    "giveaways": 0,
+                                    "goals": 0,
+                                    "hits": 0,
+                                    "missed_shots": 0,
+                                    "number_of_shifts": 7,
+                                    "penalties": 0,
+                                    "penalty_minutes": 0,
+                                    "penalty_minutes_additional": 0,
+                                    "points": 0,
+                                    "shooting_pct": 0.0,
+                                    "shots": 2,
+                                    "takeaways": 0
+                                },
+                                "powerplay": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 2
+                                },
+                                "shorthanded": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "evenstrength": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "penalty": {
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                }
+                            },
+                            {
+                                "id": "e0801893-5d5a-4617-a187-5f0396adf510",
+                                "number": 3,
+                                "sequence": 3,
+                                "type": "REG",
+                                "total": {
+                                    "assists": 2,
+                                    "blocked_att": 1,
+                                    "blocked_shots": 0,
+                                    "faceoff_win_pct": 0.0,
+                                    "faceoffs": 0,
+                                    "faceoffs_lost": 0,
+                                    "faceoffs_won": 0,
+                                    "giveaways": 0,
+                                    "goals": 0,
+                                    "hits": 1,
+                                    "missed_shots": 1,
+                                    "number_of_shifts": 8,
+                                    "penalties": 0,
+                                    "penalty_minutes": 0,
+                                    "penalty_minutes_additional": 0,
+                                    "points": 2,
+                                    "shooting_pct": 0.0,
+                                    "shots": 0,
+                                    "takeaways": 0
+                                },
+                                "powerplay": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "shorthanded": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "evenstrength": {
+                                    "assists": 2,
+                                    "goals": 0,
+                                    "missed_shots": 1,
+                                    "shots": 0
+                                },
+                                "penalty": {
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                }
+                            }
+                        ]
+                    },
+                    "time_on_ice": {
+                        "shifts": 22,
+                        "powerplay": "2:33",
+                        "shorthanded": "00:00",
+                        "avg": "00:59",
+                        "evenstrength": "19:21",
+                        "total": "21:54"
+                    }
+                },
+                {
+                    "id": "5cb512ae-8207-4a2f-9209-614c4cdb6344",
+                    "full_name": "Jack Eichel",
+                    "first_name": "Jack",
+                    "last_name": "Eichel",
+                    "handedness": "R",
+                    "position": "F",
+                    "primary_position": "C",
+                    "jersey_number": "9",
+                    "sr_id": "sr:player:834041",
+                    "reference": "8478403",
+                    "statistics": {
+                        "total": {
+                            "goals": 2,
+                            "assists": 0,
+                            "penalties": 0,
+                            "penalty_minutes": 0,
+                            "shots": 7,
+                            "blocked_att": 0,
+                            "missed_shots": 2,
+                            "hits": 0,
+                            "giveaways": 0,
+                            "takeaways": 1,
+                            "blocked_shots": 0,
+                            "faceoffs_won": 13,
+                            "faceoffs_lost": 5,
+                            "plus_minus": 0,
+                            "shooting_pct": 28.6,
+                            "faceoff_win_pct": 72.2,
+                            "faceoffs": 18,
+                            "points": 2,
+                            "winning_goal": true,
+                            "emptynet_goals": 0,
+                            "first_star": 1,
+                            "overtime_assists": 0,
+                            "overtime_goals": 0,
+                            "overtime_shots": 0,
+                            "penalties_major": 0,
+                            "penalties_match": 0,
+                            "penalties_minor": 0,
+                            "penalty_minutes_additional": 0,
+                            "penalties_misconduct": 0,
+                            "second_star": 0,
+                            "third_star": 0
+                        },
+                        "powerplay": {
+                            "shots": 1,
+                            "goals": 0,
+                            "missed_shots": 0,
+                            "assists": 0,
+                            "faceoffs": 0,
+                            "faceoffs_won": 0,
+                            "faceoffs_lost": 0,
+                            "faceoff_win_pct": 0.0
+                        },
+                        "shorthanded": {
+                            "shots": 0,
+                            "goals": 0,
+                            "missed_shots": 0,
+                            "assists": 0,
+                            "faceoffs": 1,
+                            "faceoffs_won": 1,
+                            "faceoffs_lost": 0,
+                            "faceoff_win_pct": 100.0
+                        },
+                        "evenstrength": {
+                            "shots": 6,
+                            "goals": 2,
+                            "missed_shots": 2,
+                            "assists": 0,
+                            "faceoffs": 17,
+                            "faceoffs_won": 12,
+                            "faceoffs_lost": 5,
+                            "faceoff_win_pct": 70.6
+                        },
+                        "penalty": {
+                            "shots": 0,
+                            "goals": 0,
+                            "missed_shots": 0
+                        },
+                        "shootout": {
+                            "shots": 0,
+                            "goals": 0,
+                            "missed_shots": 0
+                        },
+                        "periods": [
+                            {
+                                "id": "522812d4-f902-4b88-8e3c-186ce315a24c",
+                                "number": 1,
+                                "sequence": 1,
+                                "type": "REG",
+                                "total": {
+                                    "assists": 0,
+                                    "blocked_att": 0,
+                                    "blocked_shots": 0,
+                                    "faceoff_win_pct": 50.0,
+                                    "faceoffs": 2,
+                                    "faceoffs_lost": 1,
+                                    "faceoffs_won": 1,
+                                    "giveaways": 0,
+                                    "goals": 0,
+                                    "hits": 0,
+                                    "missed_shots": 1,
+                                    "number_of_shifts": 5,
+                                    "penalties": 0,
+                                    "penalty_minutes": 0,
+                                    "penalty_minutes_additional": 0,
+                                    "points": 0,
+                                    "shooting_pct": 0.0,
+                                    "shots": 1,
+                                    "takeaways": 1
+                                },
+                                "powerplay": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "shorthanded": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "evenstrength": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 1,
+                                    "shots": 1
+                                },
+                                "penalty": {
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                }
+                            },
+                            {
+                                "id": "1b9d35ac-8453-4aa6-8e7c-7ae82faccf9e",
+                                "number": 2,
+                                "sequence": 2,
+                                "type": "REG",
+                                "total": {
+                                    "assists": 0,
+                                    "blocked_att": 0,
+                                    "blocked_shots": 0,
+                                    "faceoff_win_pct": 71.4,
+                                    "faceoffs": 7,
+                                    "faceoffs_lost": 2,
+                                    "faceoffs_won": 5,
+                                    "giveaways": 0,
+                                    "goals": 1,
+                                    "hits": 0,
+                                    "missed_shots": 0,
+                                    "number_of_shifts": 8,
+                                    "penalties": 0,
+                                    "penalty_minutes": 0,
+                                    "penalty_minutes_additional": 0,
+                                    "points": 1,
+                                    "shooting_pct": 33.3,
+                                    "shots": 3,
+                                    "takeaways": 0
+                                },
+                                "powerplay": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 1
+                                },
+                                "shorthanded": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "evenstrength": {
+                                    "assists": 0,
+                                    "goals": 1,
+                                    "missed_shots": 0,
+                                    "shots": 2
+                                },
+                                "penalty": {
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                }
+                            },
+                            {
+                                "id": "e0801893-5d5a-4617-a187-5f0396adf510",
+                                "number": 3,
+                                "sequence": 3,
+                                "type": "REG",
+                                "total": {
+                                    "assists": 0,
+                                    "blocked_att": 0,
+                                    "blocked_shots": 0,
+                                    "faceoff_win_pct": 77.8,
+                                    "faceoffs": 9,
+                                    "faceoffs_lost": 2,
+                                    "faceoffs_won": 7,
+                                    "giveaways": 0,
+                                    "goals": 1,
+                                    "hits": 0,
+                                    "missed_shots": 1,
+                                    "number_of_shifts": 8,
+                                    "penalties": 0,
+                                    "penalty_minutes": 0,
+                                    "penalty_minutes_additional": 0,
+                                    "points": 1,
+                                    "shooting_pct": 33.3,
+                                    "shots": 3,
+                                    "takeaways": 0
+                                },
+                                "powerplay": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "shorthanded": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "evenstrength": {
+                                    "assists": 0,
+                                    "goals": 1,
+                                    "missed_shots": 1,
+                                    "shots": 3
+                                },
+                                "penalty": {
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                }
+                            }
+                        ]
+                    },
+                    "time_on_ice": {
+                        "shifts": 21,
+                        "powerplay": "2:37",
+                        "shorthanded": "00:21",
+                        "avg": "00:50",
+                        "evenstrength": "14:46",
+                        "total": "17:44"
+                    }
+                }
+            ],
+            "goals": [
+                {
+                    "id": "5cb512ae-8207-4a2f-9209-614c4cdb6344",
+                    "full_name": "Jack Eichel",
+                    "first_name": "Jack",
+                    "last_name": "Eichel",
+                    "handedness": "R",
+                    "position": "F",
+                    "primary_position": "C",
+                    "jersey_number": "9",
+                    "sr_id": "sr:player:834041",
+                    "reference": "8478403",
+                    "statistics": {
+                        "total": {
+                            "goals": 2,
+                            "assists": 0,
+                            "penalties": 0,
+                            "penalty_minutes": 0,
+                            "shots": 7,
+                            "blocked_att": 0,
+                            "missed_shots": 2,
+                            "hits": 0,
+                            "giveaways": 0,
+                            "takeaways": 1,
+                            "blocked_shots": 0,
+                            "faceoffs_won": 13,
+                            "faceoffs_lost": 5,
+                            "plus_minus": 0,
+                            "shooting_pct": 28.6,
+                            "faceoff_win_pct": 72.2,
+                            "faceoffs": 18,
+                            "points": 2,
+                            "winning_goal": true,
+                            "emptynet_goals": 0,
+                            "first_star": 1,
+                            "overtime_assists": 0,
+                            "overtime_goals": 0,
+                            "overtime_shots": 0,
+                            "penalties_major": 0,
+                            "penalties_match": 0,
+                            "penalties_minor": 0,
+                            "penalty_minutes_additional": 0,
+                            "penalties_misconduct": 0,
+                            "second_star": 0,
+                            "third_star": 0
+                        },
+                        "powerplay": {
+                            "shots": 1,
+                            "goals": 0,
+                            "missed_shots": 0,
+                            "assists": 0,
+                            "faceoffs": 0,
+                            "faceoffs_won": 0,
+                            "faceoffs_lost": 0,
+                            "faceoff_win_pct": 0.0
+                        },
+                        "shorthanded": {
+                            "shots": 0,
+                            "goals": 0,
+                            "missed_shots": 0,
+                            "assists": 0,
+                            "faceoffs": 1,
+                            "faceoffs_won": 1,
+                            "faceoffs_lost": 0,
+                            "faceoff_win_pct": 100.0
+                        },
+                        "evenstrength": {
+                            "shots": 6,
+                            "goals": 2,
+                            "missed_shots": 2,
+                            "assists": 0,
+                            "faceoffs": 17,
+                            "faceoffs_won": 12,
+                            "faceoffs_lost": 5,
+                            "faceoff_win_pct": 70.6
+                        },
+                        "penalty": {
+                            "shots": 0,
+                            "goals": 0,
+                            "missed_shots": 0
+                        },
+                        "shootout": {
+                            "shots": 0,
+                            "goals": 0,
+                            "missed_shots": 0
+                        },
+                        "periods": [
+                            {
+                                "id": "522812d4-f902-4b88-8e3c-186ce315a24c",
+                                "number": 1,
+                                "sequence": 1,
+                                "type": "REG",
+                                "total": {
+                                    "assists": 0,
+                                    "blocked_att": 0,
+                                    "blocked_shots": 0,
+                                    "faceoff_win_pct": 50.0,
+                                    "faceoffs": 2,
+                                    "faceoffs_lost": 1,
+                                    "faceoffs_won": 1,
+                                    "giveaways": 0,
+                                    "goals": 0,
+                                    "hits": 0,
+                                    "missed_shots": 1,
+                                    "number_of_shifts": 5,
+                                    "penalties": 0,
+                                    "penalty_minutes": 0,
+                                    "penalty_minutes_additional": 0,
+                                    "points": 0,
+                                    "shooting_pct": 0.0,
+                                    "shots": 1,
+                                    "takeaways": 1
+                                },
+                                "powerplay": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "shorthanded": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "evenstrength": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 1,
+                                    "shots": 1
+                                },
+                                "penalty": {
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                }
+                            },
+                            {
+                                "id": "1b9d35ac-8453-4aa6-8e7c-7ae82faccf9e",
+                                "number": 2,
+                                "sequence": 2,
+                                "type": "REG",
+                                "total": {
+                                    "assists": 0,
+                                    "blocked_att": 0,
+                                    "blocked_shots": 0,
+                                    "faceoff_win_pct": 71.4,
+                                    "faceoffs": 7,
+                                    "faceoffs_lost": 2,
+                                    "faceoffs_won": 5,
+                                    "giveaways": 0,
+                                    "goals": 1,
+                                    "hits": 0,
+                                    "missed_shots": 0,
+                                    "number_of_shifts": 8,
+                                    "penalties": 0,
+                                    "penalty_minutes": 0,
+                                    "penalty_minutes_additional": 0,
+                                    "points": 1,
+                                    "shooting_pct": 33.3,
+                                    "shots": 3,
+                                    "takeaways": 0
+                                },
+                                "powerplay": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 1
+                                },
+                                "shorthanded": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "evenstrength": {
+                                    "assists": 0,
+                                    "goals": 1,
+                                    "missed_shots": 0,
+                                    "shots": 2
+                                },
+                                "penalty": {
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                }
+                            },
+                            {
+                                "id": "e0801893-5d5a-4617-a187-5f0396adf510",
+                                "number": 3,
+                                "sequence": 3,
+                                "type": "REG",
+                                "total": {
+                                    "assists": 0,
+                                    "blocked_att": 0,
+                                    "blocked_shots": 0,
+                                    "faceoff_win_pct": 77.8,
+                                    "faceoffs": 9,
+                                    "faceoffs_lost": 2,
+                                    "faceoffs_won": 7,
+                                    "giveaways": 0,
+                                    "goals": 1,
+                                    "hits": 0,
+                                    "missed_shots": 1,
+                                    "number_of_shifts": 8,
+                                    "penalties": 0,
+                                    "penalty_minutes": 0,
+                                    "penalty_minutes_additional": 0,
+                                    "points": 1,
+                                    "shooting_pct": 33.3,
+                                    "shots": 3,
+                                    "takeaways": 0
+                                },
+                                "powerplay": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "shorthanded": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "evenstrength": {
+                                    "assists": 0,
+                                    "goals": 1,
+                                    "missed_shots": 1,
+                                    "shots": 3
+                                },
+                                "penalty": {
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                }
+                            }
+                        ]
+                    },
+                    "time_on_ice": {
+                        "shifts": 21,
+                        "powerplay": "2:37",
+                        "shorthanded": "00:21",
+                        "avg": "00:50",
+                        "evenstrength": "14:46",
+                        "total": "17:44"
+                    }
+                }
+            ],
+            "assists": [
+                {
+                    "id": "b6469001-5c10-494a-a27c-44765044e016",
+                    "full_name": "Mitch Marner",
+                    "first_name": "Mitch",
+                    "last_name": "Marner",
+                    "handedness": "R",
+                    "position": "F",
+                    "primary_position": "RW",
+                    "jersey_number": "93",
+                    "sr_id": "sr:player:852982",
+                    "reference": "8478483",
+                    "statistics": {
+                        "total": {
+                            "goals": 0,
+                            "assists": 2,
+                            "penalties": 0,
+                            "penalty_minutes": 0,
+                            "shots": 4,
+                            "blocked_att": 1,
+                            "missed_shots": 2,
+                            "hits": 1,
+                            "giveaways": 0,
+                            "takeaways": 0,
+                            "blocked_shots": 0,
+                            "faceoffs_won": 0,
+                            "faceoffs_lost": 0,
+                            "plus_minus": 2,
+                            "shooting_pct": 0.0,
+                            "faceoff_win_pct": 0.0,
+                            "faceoffs": 0,
+                            "points": 2,
+                            "emptynet_goals": 0,
+                            "first_star": 0,
+                            "overtime_assists": 0,
+                            "overtime_goals": 0,
+                            "overtime_shots": 0,
+                            "penalties_major": 0,
+                            "penalties_match": 0,
+                            "penalties_minor": 0,
+                            "penalty_minutes_additional": 0,
+                            "penalties_misconduct": 0,
+                            "second_star": 0,
+                            "third_star": 0
+                        },
+                        "powerplay": {
+                            "shots": 2,
+                            "goals": 0,
+                            "missed_shots": 0,
+                            "assists": 0,
+                            "faceoffs": 0,
+                            "faceoffs_won": 0,
+                            "faceoffs_lost": 0,
+                            "faceoff_win_pct": 0.0
+                        },
+                        "shorthanded": {
+                            "shots": 0,
+                            "goals": 0,
+                            "missed_shots": 0,
+                            "assists": 0,
+                            "faceoffs": 0,
+                            "faceoffs_won": 0,
+                            "faceoffs_lost": 0,
+                            "faceoff_win_pct": 0.0
+                        },
+                        "evenstrength": {
+                            "shots": 2,
+                            "goals": 0,
+                            "missed_shots": 2,
+                            "assists": 2,
+                            "faceoffs": 0,
+                            "faceoffs_won": 0,
+                            "faceoffs_lost": 0,
+                            "faceoff_win_pct": 0.0
+                        },
+                        "penalty": {
+                            "shots": 0,
+                            "goals": 0,
+                            "missed_shots": 0
+                        },
+                        "shootout": {
+                            "shots": 0,
+                            "goals": 0,
+                            "missed_shots": 0
+                        },
+                        "periods": [
+                            {
+                                "id": "522812d4-f902-4b88-8e3c-186ce315a24c",
+                                "number": 1,
+                                "sequence": 1,
+                                "type": "REG",
+                                "total": {
+                                    "assists": 0,
+                                    "blocked_att": 0,
+                                    "blocked_shots": 0,
+                                    "faceoff_win_pct": 0.0,
+                                    "faceoffs": 0,
+                                    "faceoffs_lost": 0,
+                                    "faceoffs_won": 0,
+                                    "giveaways": 0,
+                                    "goals": 0,
+                                    "hits": 0,
+                                    "missed_shots": 1,
+                                    "number_of_shifts": 7,
+                                    "penalties": 0,
+                                    "penalty_minutes": 0,
+                                    "penalty_minutes_additional": 0,
+                                    "points": 0,
+                                    "shooting_pct": 0.0,
+                                    "shots": 2,
+                                    "takeaways": 0
+                                },
+                                "powerplay": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "shorthanded": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "evenstrength": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 1,
+                                    "shots": 2
+                                },
+                                "penalty": {
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                }
+                            },
+                            {
+                                "id": "1b9d35ac-8453-4aa6-8e7c-7ae82faccf9e",
+                                "number": 2,
+                                "sequence": 2,
+                                "type": "REG",
+                                "total": {
+                                    "assists": 0,
+                                    "blocked_att": 0,
+                                    "blocked_shots": 0,
+                                    "faceoff_win_pct": 0.0,
+                                    "faceoffs": 0,
+                                    "faceoffs_lost": 0,
+                                    "faceoffs_won": 0,
+                                    "giveaways": 0,
+                                    "goals": 0,
+                                    "hits": 0,
+                                    "missed_shots": 0,
+                                    "number_of_shifts": 7,
+                                    "penalties": 0,
+                                    "penalty_minutes": 0,
+                                    "penalty_minutes_additional": 0,
+                                    "points": 0,
+                                    "shooting_pct": 0.0,
+                                    "shots": 2,
+                                    "takeaways": 0
+                                },
+                                "powerplay": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 2
+                                },
+                                "shorthanded": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "evenstrength": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "penalty": {
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                }
+                            },
+                            {
+                                "id": "e0801893-5d5a-4617-a187-5f0396adf510",
+                                "number": 3,
+                                "sequence": 3,
+                                "type": "REG",
+                                "total": {
+                                    "assists": 2,
+                                    "blocked_att": 1,
+                                    "blocked_shots": 0,
+                                    "faceoff_win_pct": 0.0,
+                                    "faceoffs": 0,
+                                    "faceoffs_lost": 0,
+                                    "faceoffs_won": 0,
+                                    "giveaways": 0,
+                                    "goals": 0,
+                                    "hits": 1,
+                                    "missed_shots": 1,
+                                    "number_of_shifts": 8,
+                                    "penalties": 0,
+                                    "penalty_minutes": 0,
+                                    "penalty_minutes_additional": 0,
+                                    "points": 2,
+                                    "shooting_pct": 0.0,
+                                    "shots": 0,
+                                    "takeaways": 0
+                                },
+                                "powerplay": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "shorthanded": {
+                                    "assists": 0,
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                },
+                                "evenstrength": {
+                                    "assists": 2,
+                                    "goals": 0,
+                                    "missed_shots": 1,
+                                    "shots": 0
+                                },
+                                "penalty": {
+                                    "goals": 0,
+                                    "missed_shots": 0,
+                                    "shots": 0
+                                }
+                            }
+                        ]
+                    },
+                    "time_on_ice": {
+                        "shifts": 22,
+                        "powerplay": "2:33",
+                        "shorthanded": "00:00",
+                        "avg": "00:59",
+                        "evenstrength": "19:21",
+                        "total": "21:54"
+                    }
+                }
+            ]
+        }
+    },
+    "officials": [
+        {
+            "id": "ee93f365-de7d-4443-916a-edfd6f065266",
+            "first_name": "Jonathan",
+            "last_name": "Deschamps",
+            "full_name": "Jonathan Deschamps",
+            "assignment": "Linesmen",
+            "experience": "1",
+            "number": "80"
+        },
+        {
+            "id": "7eb06691-826b-48a5-9dbc-92bd416b04b2",
+            "first_name": "Graham",
+            "last_name": "Skilliter",
+            "full_name": "Graham Skilliter",
+            "assignment": "Referee",
+            "experience": "4",
+            "number": "24"
+        },
+        {
+            "id": "f7d92522-956a-4294-9f1d-f0ccef8a0167",
+            "first_name": "Pierre",
+            "last_name": "Lambert",
+            "full_name": "Pierre Lambert",
+            "assignment": "Referee",
+            "experience": "2",
+            "number": "25"
+        },
+        {
+            "id": "cde69661-9a76-4d98-b722-fb54083c5027",
+            "first_name": "Mark",
+            "last_name": "Shewchyk",
+            "full_name": "Mark Shewchyk",
+            "assignment": "Linesmen",
+            "experience": "12",
+            "number": "92"
+        }
+    ],
+    "stars": [
+        {
+            "sequence": 1,
+            "player": {
+                "sr_id": "sr:player:834041",
+                "id": "5cb512ae-8207-4a2f-9209-614c4cdb6344",
+                "full_name": "Jack Eichel",
+                "jersey_number": "9",
+                "position": "F",
+                "reference": "8478403"
+            },
+            "team": {
+                "sr_id": "sr:team:344158",
+                "id": "42376e1c-6da8-461e-9443-cfcf0a9fcc4d",
+                "name": "Golden Knights",
+                "market": "Vegas",
+                "reference": "54"
+            }
+        },
+        {
+            "sequence": 2,
+            "player": {
+                "sr_id": "sr:player:106592",
+                "id": "429a2e26-0f24-11e2-8525-18a905767e44",
+                "full_name": "Mikael Backlund",
+                "jersey_number": "11",
+                "position": "F",
+                "reference": "8474150"
+            },
+            "team": {
+                "sr_id": "sr:team:3679",
+                "id": "44159241-0f24-11e2-8525-18a905767e44",
+                "name": "Flames",
+                "market": "Calgary",
+                "reference": "20"
+            }
+        },
+        {
+            "sequence": 3,
+            "player": {
+                "sr_id": "sr:player:1382697",
+                "id": "d0f7bd22-141d-450c-b4ec-5dafa0f63cde",
+                "full_name": "Akira Schmid",
+                "jersey_number": "40",
+                "position": "G",
+                "reference": "8481033"
+            },
+            "team": {
+                "sr_id": "sr:team:344158",
+                "id": "42376e1c-6da8-461e-9443-cfcf0a9fcc4d",
+                "name": "Golden Knights",
+                "market": "Vegas",
+                "reference": "54"
+            }
+        }
+    ]
+}

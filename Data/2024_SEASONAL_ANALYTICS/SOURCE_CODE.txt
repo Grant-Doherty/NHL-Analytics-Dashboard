@@ -1,0 +1,71 @@
+URLs = { 
+    "Team_Profiles" : "https://api.sportradar.com/nhl/trial/v7/en/teams/{TEAM_ID}/profile.json",
+    "Seasonal Analytics" : "https://api.sportradar.com/nhl/trial/v7/en/seasons/{SEASON}/REG/teams/{TEAM_ID}/analytics.json",    # The SEASON value is the year the season started
+    "Player Profile" : "https://api.sportradar.com/nhl/trial/v7/en/players/{PLAYER_ID}/profile.json"
+    
+}
+
+TEAM_IDs = {
+    
+    # "COL": "4415ce44-0f24-11e2-8525-18a905767e44",
+    # "CHI": "4416272f-0f24-11e2-8525-18a905767e44",
+    "CBJ": "44167db4-0f24-11e2-8525-18a905767e44",
+    "STL": "441660ea-0f24-11e2-8525-18a905767e44",
+    "BOS": "4416ba1a-0f24-11e2-8525-18a905767e44",
+    "MTL": "441713b7-0f24-11e2-8525-18a905767e44",
+    "VAN": "4415b0a7-0f24-11e2-8525-18a905767e44",
+    "WSH": "4417eede-0f24-11e2-8525-18a905767e44",
+    "NJ": "44174b0c-0f24-11e2-8525-18a905767e44",
+    "MIN" : "4416091c-0f24-11e2-8525-18a905767e44",
+    "ANA": "441862de-0f24-11e2-8525-18a905767e44",
+    "CGY": "44159241-0f24-11e2-8525-18a905767e44",
+    "PHI": "44179d47-0f24-11e2-8525-18a905767e44",
+    "VGK": "42376e1c-6da8-461e-9443-cfcf0a9fcc4d",
+    "CAR": "44182a9d-0f24-11e2-8525-18a905767e44",
+    "NYI": "441766b9-0f24-11e2-8525-18a905767e44",
+    "WPG": "44180e55-0f24-11e2-8525-18a905767e44",
+    "LA": "44151f7a-0f24-11e2-8525-18a905767e44",
+    "SEA": "1fb48e65-9688-4084-8868-02173525c3e1",
+    "TB": "4417d3cb-0f24-11e2-8525-18a905767e44",
+    "UTA": "715a1dba-4e9f-4158-8346-3473b6e3557f",
+    "TOR": "441730a9-0f24-11e2-8525-18a905767e44",
+    "EDM": "4415ea6c-0f24-11e2-8525-18a905767e44",
+    "FLA": "4418464d-0f24-11e2-8525-18a905767e44",
+    "PIT": "4417b7d7-0f24-11e2-8525-18a905767e44",
+    "NSH": "441643b7-0f24-11e2-8525-18a905767e44",
+    "NYR": "441781b9-0f24-11e2-8525-18a905767e44",
+    "DET": "44169bb9-0f24-11e2-8525-18a905767e44",
+    "BUF": "4416d559-0f24-11e2-8525-18a905767e44",
+    "OTT": "4416f5e2-0f24-11e2-8525-18a905767e44",
+    "SJ": "44155909-0f24-11e2-8525-18a905767e44",
+    "DAL": "44157522-0f24-11e2-8525-18a905767e44"
+
+
+
+    # Divisions
+    # "PAC": "1cd2b521-9090-4692-bb78-29973ef2d748",      # Pacific
+    # "CEN": "49e876e9-2e57-4ba4-96fd-ba8e92932227",      # Central
+    # "ATL": "4bea8be7-44fb-4a3e-9abe-26ab3e7f5500",      # Atlantic
+    # "MET": "99c773e4-ff9f-404e-9a00-4bf5d18caa66",      # Metropolitan
+
+    # Other
+    # "NHL": "fd560107-a85b-4388-ab0d-655ad022aff7",
+    # "CAN": "2daa7c51-22ba-41ba-97bd-a920782b8541"
+
+}
+
+
+Auth_Key = "L1nM7TmUhyYdeuUAOs1uqZD6z7lmWvlOG446YNFP"
+headers = {
+    "accept": "application/json",
+    "x-api-key": Auth_Key
+}
+
+
+for KEY, VALUE in TEAM_IDs.items():
+    url = URLs["Seasonal Analytics"].format(TEAM_ID=TEAM_IDs[KEY], SEASON=2024)
+    os.makedirs(f"2024_SEASONAL_ANALYTICS/{KEY}", exist_ok=True)
+    # response = requests.get(url, headers=headers)
+    with open(f"2024_SEASONAL_ANALYTICS/{KEY}/{KEY}_2024.json", "w") as f:
+        json.dump(response.json(), f, indent=4)
+    time.sleep(1)

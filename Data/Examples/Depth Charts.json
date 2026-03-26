@@ -1,0 +1,488 @@
+{
+  "id": "4416091c-0f24-11e2-8525-18a905767e44",
+  "name": "Wild",
+  "market": "Minnesota",
+  "alias": "MIN",
+  "sr_id": "sr:team:3689",
+  "founded": 2000,
+  "reference": "30",
+  "venue": {
+    "id": "7e6f808b-eff8-42fd-a8e2-d35219f565bd",
+    "name": "Grand Casino Arena",
+    "capacity": 18064,
+    "address": "199 W Kellogg Boulevard",
+    "city": "St. Paul",
+    "state": "MN",
+    "zip": "55102",
+    "country": "USA",
+    "time_zone": "US/Central",
+    "sr_id": "sr:venue:6020",
+    "location": {
+      "lat": "44.94478",
+      "lng": "-93.10118"
+    }
+  },
+  "league": {
+    "id": "fd560107-a85b-4388-ab0d-655ad022aff7",
+    "name": "NHL",
+    "alias": "NHL"
+  },
+  "conference": {
+    "id": "64901512-9ca9-4bea-aa80-16dbcbdae230",
+    "name": "WESTERN CONFERENCE",
+    "alias": "WESTERN"
+  },
+  "division": {
+    "id": "5e868c4d-c6a3-4901-bc3c-3b7a4509e402",
+    "name": "Central",
+    "alias": "CENTRAL"
+  },
+  "coaches": [
+    {
+      "id": "ec578504-5399-4d25-bb5a-f06a3198269c",
+      "full_name": "John Hynes",
+      "first_name": "John",
+      "last_name": "Hynes",
+      "position": "Head Coach",
+      "experience": "11"
+    }
+  ],
+  "positions": {
+    "LW": {
+      "id": "a57b3dad-b262-4a9c-bd15-b05691bb1612",
+      "name": "LW",
+      "desc": "Left Wing",
+      "players": [
+        {
+          "id": "561ebae2-f93e-414e-a269-94b712ce63f8",
+          "full_name": "Kirill Kaprizov",
+          "primary_position": "LW",
+          "position": "F",
+          "jersey_number": "97",
+          "reference": "8478864",
+          "experience": "5",
+          "status": "ACT",
+          "handedness": "L",
+          "depth": 1,
+          "sr_id": "sr:player:612400"
+        },
+        {
+          "id": "434c020d-0f24-11e2-8525-18a905767e44",
+          "full_name": "Marcus Johansson",
+          "primary_position": "LW",
+          "position": "F",
+          "jersey_number": "90",
+          "reference": "8475149",
+          "experience": "15",
+          "status": "ACT",
+          "handedness": "L",
+          "depth": 2,
+          "sr_id": "sr:player:42274"
+        },
+        {
+          "id": "436ad49d-0f24-11e2-8525-18a905767e44",
+          "full_name": "Marcus Foligno",
+          "primary_position": "LW",
+          "position": "F",
+          "jersey_number": "17",
+          "reference": "8475220",
+          "experience": "14",
+          "status": "ACT",
+          "handedness": "L",
+          "depth": 3,
+          "sr_id": "sr:player:225138"
+        },
+        {
+          "id": "9eeabec1-e652-4ecd-9e0d-d7a4a1ee5f8a",
+          "full_name": "Ben Jones",
+          "primary_position": "C",
+          "position": "F",
+          "jersey_number": "39",
+          "reference": "8480259",
+          "experience": "2",
+          "status": "ACT",
+          "handedness": "L",
+          "depth": 4,
+          "sr_id": "sr:player:1117721"
+        }
+      ]
+    },
+    "C": {
+      "id": "010c8349-dce3-4e7d-9988-493eb78ca6ed",
+      "name": "C",
+      "desc": "Center",
+      "players": [
+        {
+          "id": "504e1497-33ee-4e3b-8d90-dbe1ac8ff0ce",
+          "full_name": "Joel Eriksson Ek",
+          "primary_position": "C",
+          "position": "F",
+          "jersey_number": "14",
+          "reference": "8478493",
+          "experience": "9",
+          "status": "ACT",
+          "handedness": "L",
+          "depth": 1,
+          "sr_id": "sr:player:780026"
+        },
+        {
+          "id": "b238e6fe-2af6-4841-82a2-c50e67b8a530",
+          "full_name": "Marco Rossi",
+          "primary_position": "C",
+          "position": "F",
+          "jersey_number": "23",
+          "reference": "8482079",
+          "experience": "4",
+          "status": "ACT",
+          "handedness": "L",
+          "depth": 2,
+          "sr_id": "sr:player:2066191"
+        },
+        {
+          "id": "95d0bd56-e005-4545-905c-13e2227d89e8",
+          "full_name": "Ryan Hartman",
+          "primary_position": "RW",
+          "position": "F",
+          "jersey_number": "38",
+          "reference": "8477451",
+          "experience": "11",
+          "status": "ACT",
+          "handedness": "R",
+          "depth": 3,
+          "sr_id": "sr:player:353322"
+        },
+        {
+          "id": "28844cc6-fade-423a-a0ad-d8e0552e3cad",
+          "full_name": "Danila Yurov",
+          "primary_position": "RW",
+          "position": "F",
+          "jersey_number": "22",
+          "reference": "8483525",
+          "experience": "0",
+          "status": "ACT",
+          "handedness": "L",
+          "depth": 4,
+          "sr_id": "sr:player:2070599"
+        }
+      ]
+    },
+    "RW": {
+      "id": "ea2b72d7-a73a-4081-b3ce-1cf4cd458f4e",
+      "name": "RW",
+      "desc": "Right Wing",
+      "players": [
+        {
+          "id": "9c3cd0d9-87bb-4000-8830-927325358ed0",
+          "full_name": "Matt Boldy",
+          "primary_position": "LW",
+          "position": "F",
+          "jersey_number": "12",
+          "reference": "8481557",
+          "experience": "4",
+          "status": "ACT",
+          "handedness": "L",
+          "depth": 1,
+          "sr_id": "sr:player:1650155"
+        },
+        {
+          "id": "4a5a7feb-5f4e-11e2-9e6b-f4ce4684ea4c",
+          "full_name": "Vladimir Tarasenko",
+          "primary_position": "RW",
+          "position": "F",
+          "jersey_number": "91",
+          "reference": "8475765",
+          "experience": "13",
+          "status": "ACT",
+          "handedness": "L",
+          "depth": 2,
+          "sr_id": "sr:player:87619"
+        },
+        {
+          "id": "dada6a5d-c02f-4aad-b337-fd4c99f94fe5",
+          "full_name": "Yakov Trenin",
+          "primary_position": "C",
+          "position": "F",
+          "jersey_number": "13",
+          "reference": "8478508",
+          "experience": "6",
+          "status": "ACT",
+          "handedness": "L",
+          "depth": 3,
+          "sr_id": "sr:player:904540"
+        },
+        {
+          "id": "ca23f395-a18f-400a-9131-ef37dea0d52f",
+          "full_name": "Vincent Hinostroza",
+          "primary_position": "C",
+          "position": "F",
+          "jersey_number": "18",
+          "reference": "8476994",
+          "experience": "10",
+          "status": "ACT",
+          "handedness": "R",
+          "depth": 4,
+          "sr_id": "sr:player:904696"
+        }
+      ]
+    },
+    "LD": {
+      "id": "0c28f45b-d431-4be0-9ae9-05bbd7caa404",
+      "name": "LD",
+      "desc": "Left Defense",
+      "players": [
+        {
+          "id": "03057f04-674c-11e2-9e6b-f4ce4684ea4c",
+          "full_name": "Jonas Brodin",
+          "primary_position": "D",
+          "position": "D",
+          "jersey_number": "25",
+          "reference": "8476463",
+          "experience": "13",
+          "status": "ACT",
+          "handedness": "L",
+          "depth": 1,
+          "sr_id": "sr:player:133684"
+        },
+        {
+          "id": "8e0a40bd-03ca-47a3-9542-5c30e46717f5",
+          "full_name": "Zeev Buium",
+          "primary_position": "D",
+          "position": "D",
+          "jersey_number": "8",
+          "reference": "8484798",
+          "experience": "0",
+          "status": "ACT",
+          "handedness": "L",
+          "depth": 2,
+          "sr_id": "sr:player:2744945"
+        },
+        {
+          "id": "d30b3e05-3cb7-42cc-b035-96280637e4cc",
+          "full_name": "Jake Middleton",
+          "primary_position": "D",
+          "position": "D",
+          "jersey_number": "5",
+          "reference": "8478136",
+          "experience": "7",
+          "status": "ACT",
+          "handedness": "L",
+          "depth": 3,
+          "sr_id": "sr:player:905282"
+        }
+      ]
+    },
+    "RD": {
+      "id": "d6ca2a81-5730-4255-b4ed-915dd66bb3fb",
+      "name": "RD",
+      "desc": "Right Defense",
+      "players": [
+        {
+          "id": "533a104c-95db-4f96-be9b-fb825f22ad0f",
+          "full_name": "Brock Faber",
+          "primary_position": "D",
+          "position": "D",
+          "jersey_number": "7",
+          "reference": "8482122",
+          "experience": "3",
+          "status": "ACT",
+          "handedness": "R",
+          "depth": 1,
+          "sr_id": "sr:player:2102984"
+        },
+        {
+          "id": "42bde59f-0f24-11e2-8525-18a905767e44",
+          "full_name": "Jared Spurgeon",
+          "primary_position": "D",
+          "position": "D",
+          "jersey_number": "46",
+          "reference": "8474716",
+          "experience": "15",
+          "status": "ACT",
+          "handedness": "R",
+          "depth": 2,
+          "sr_id": "sr:player:146331"
+        },
+        {
+          "id": "6ebf9cef-4252-424e-94b3-c47a418320a0",
+          "full_name": "David Jiricek",
+          "primary_position": "D",
+          "position": "D",
+          "jersey_number": "55",
+          "reference": "8483460",
+          "experience": "1",
+          "status": "ACT",
+          "handedness": "R",
+          "depth": 3,
+          "sr_id": "sr:player:2378219"
+        }
+      ]
+    },
+    "G": {
+      "id": "72dc9cc0-a000-41fa-9194-6643eddbb396",
+      "name": "G",
+      "desc": "Goalie",
+      "players": [
+        {
+          "id": "4546b88a-cd54-463f-8f51-e3206bd9ad6f",
+          "full_name": "Filip Gustavsson",
+          "primary_position": "G",
+          "position": "G",
+          "jersey_number": "32",
+          "reference": "8479406",
+          "experience": "5",
+          "status": "ACT",
+          "handedness": "L",
+          "depth": 1,
+          "sr_id": "sr:player:983747"
+        },
+        {
+          "id": "e1dc9a4e-686e-4444-8a56-d03b1cad011b",
+          "full_name": "Jesper Wallstedt",
+          "primary_position": "G",
+          "position": "G",
+          "jersey_number": "30",
+          "reference": "8482661",
+          "experience": "2",
+          "status": "ACT",
+          "handedness": "L",
+          "depth": 2,
+          "sr_id": "sr:player:1722688"
+        }
+      ]
+    },
+    "PP1": {
+      "id": "78da5105-cf9d-4d9a-85a9-a9bbb833cb12",
+      "name": "PP1",
+      "desc": "First Power Play Unit",
+      "players": [
+        {
+          "id": "4a5a7feb-5f4e-11e2-9e6b-f4ce4684ea4c",
+          "full_name": "Vladimir Tarasenko",
+          "primary_position": "RW",
+          "position": "F",
+          "jersey_number": "91",
+          "reference": "8475765",
+          "experience": "13",
+          "status": "ACT",
+          "handedness": "L",
+          "sr_id": "sr:player:87619"
+        },
+        {
+          "id": "504e1497-33ee-4e3b-8d90-dbe1ac8ff0ce",
+          "full_name": "Joel Eriksson Ek",
+          "primary_position": "C",
+          "position": "F",
+          "jersey_number": "14",
+          "reference": "8478493",
+          "experience": "9",
+          "status": "ACT",
+          "handedness": "L",
+          "sr_id": "sr:player:780026"
+        },
+        {
+          "id": "9c3cd0d9-87bb-4000-8830-927325358ed0",
+          "full_name": "Matt Boldy",
+          "primary_position": "LW",
+          "position": "F",
+          "jersey_number": "12",
+          "reference": "8481557",
+          "experience": "4",
+          "status": "ACT",
+          "handedness": "L",
+          "sr_id": "sr:player:1650155"
+        },
+        {
+          "id": "8e0a40bd-03ca-47a3-9542-5c30e46717f5",
+          "full_name": "Zeev Buium",
+          "primary_position": "D",
+          "position": "D",
+          "jersey_number": "8",
+          "reference": "8484798",
+          "experience": "0",
+          "status": "ACT",
+          "handedness": "L",
+          "sr_id": "sr:player:2744945"
+        },
+        {
+          "id": "561ebae2-f93e-414e-a269-94b712ce63f8",
+          "full_name": "Kirill Kaprizov",
+          "primary_position": "LW",
+          "position": "F",
+          "jersey_number": "97",
+          "reference": "8478864",
+          "experience": "5",
+          "status": "ACT",
+          "handedness": "L",
+          "sr_id": "sr:player:612400"
+        }
+      ]
+    },
+    "PP2": {
+      "id": "18ef40ad-5c2f-462d-9c76-60994b404942",
+      "name": "PP2",
+      "desc": "Second Power Play Unit",
+      "players": [
+        {
+          "id": "ca23f395-a18f-400a-9131-ef37dea0d52f",
+          "full_name": "Vincent Hinostroza",
+          "primary_position": "C",
+          "position": "F",
+          "jersey_number": "18",
+          "reference": "8476994",
+          "experience": "10",
+          "status": "ACT",
+          "handedness": "R",
+          "sr_id": "sr:player:904696"
+        },
+        {
+          "id": "b238e6fe-2af6-4841-82a2-c50e67b8a530",
+          "full_name": "Marco Rossi",
+          "primary_position": "C",
+          "position": "F",
+          "jersey_number": "23",
+          "reference": "8482079",
+          "experience": "4",
+          "status": "ACT",
+          "handedness": "L",
+          "sr_id": "sr:player:2066191"
+        },
+        {
+          "id": "95d0bd56-e005-4545-905c-13e2227d89e8",
+          "full_name": "Ryan Hartman",
+          "primary_position": "RW",
+          "position": "F",
+          "jersey_number": "38",
+          "reference": "8477451",
+          "experience": "11",
+          "status": "ACT",
+          "handedness": "R",
+          "sr_id": "sr:player:353322"
+        },
+        {
+          "id": "42bde59f-0f24-11e2-8525-18a905767e44",
+          "full_name": "Jared Spurgeon",
+          "primary_position": "D",
+          "position": "D",
+          "jersey_number": "46",
+          "reference": "8474716",
+          "experience": "15",
+          "status": "ACT",
+          "handedness": "R",
+          "sr_id": "sr:player:146331"
+        },
+        {
+          "id": "434c020d-0f24-11e2-8525-18a905767e44",
+          "full_name": "Marcus Johansson",
+          "primary_position": "LW",
+          "position": "F",
+          "jersey_number": "90",
+          "reference": "8475149",
+          "experience": "15",
+          "status": "ACT",
+          "handedness": "L",
+          "sr_id": "sr:player:42274"
+        }
+      ]
+    }
+  }
+}
