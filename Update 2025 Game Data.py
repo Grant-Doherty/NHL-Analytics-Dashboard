@@ -4,8 +4,6 @@ import json
 import os
 import time
 from datetime import date, timedelta
-from datetime import datetime
-from pathlib import Path
 
 
 #
@@ -33,7 +31,7 @@ URLs = {
 # API arguments
 headers = {
     "accept": "application/json",
-    "x-api-key": "tXnmDsxZ2FnxhkGdKf2uofDIyvYGiOQrtAqGX6hD"
+    "x-api-key": ""                 # Authentication key sensored for licensing purposes
 }
 
 # define start and end dates to update

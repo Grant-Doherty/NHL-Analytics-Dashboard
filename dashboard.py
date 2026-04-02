@@ -9,12 +9,10 @@
 #
 
 import dash
-import json 
 from dash import Dash, html, dcc, Input, Output, dash_table, no_update
 import dash_bootstrap_components as dbc
 import pandas as pd
 import plotly.graph_objs as go
-import statsmodels.api as sm
 
 # --------- Importing dataframes from local files --------- #
 

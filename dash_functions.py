@@ -1,11 +1,5 @@
 import numpy as np
-import matplotlib.pyplot as plt
-import pandas as pd
-from IPython.display import Image
-import requests
 import json 
-import time
-import os
 import statsmodels.api as sm
 
 

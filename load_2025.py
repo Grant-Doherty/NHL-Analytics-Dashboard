@@ -1,15 +1,8 @@
-import numpy as np
-import matplotlib.pyplot as plt
-import pandas as pd
-from IPython.display import Image
-import requests
-import json 
-import os
-import time
-import streamlit as st
-from datetime import date, timedelta
-from datetime import datetime
-from pathlib import Path
+import numpy as np         
+import pandas as pd        
+import json                
+import os                  
+from pathlib import Path   
 
 
 
@@ -153,9 +146,9 @@ def compile_agent_data_2025(agent_ID):
 
     temp_storing_dict = {}  # temporary storage
     final_dict = {}         # final storage
-    Games_25 = r"C:\Users\grant\Desktop\Sam & Grant Lose Their Money\Git Ready\Data\2025 Game Data"
+    Games_25 = r"Data\2025 Game Data"
 
-    with open(r"C:\Users\grant\Desktop\Sam & Grant Lose Their Money\Git Ready\Data\League Manifest.json", "r") as f:
+    with open(r"Data\League Manifest.json", "r") as f:
         league_manifest = json.load(f)
     
 

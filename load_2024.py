@@ -1,12 +1,5 @@
-
-
-import numpy as np
-import matplotlib.pyplot as plt
 import pandas as pd
-from IPython.display import Image
-import requests
 import json 
-import time
 import os
 
 
@@ -18,8 +11,8 @@ import os
 
 
 # addresses to the analytics and statistics directories 
-analytics_directory = r"C:\Users\grant\Desktop\Sam & Grant Lose Their Money\Git Ready\Data\2024_SEASONAL_ANALYTICS"
-statistics_directory = r"C:\Users\grant\Desktop\Sam & Grant Lose Their Money\Git Ready\Data\2024_SEASONAL_STATISTICS"
+analytics_directory = r"Data\2024_SEASONAL_ANALYTICS"
+statistics_directory = r"Data\2024_SEASONAL_STATISTICS"
 
 
 # addresses to specific parameters for a given datasheet (team_analytics, player_analytics, etc.). 
